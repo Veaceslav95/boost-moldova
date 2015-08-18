@@ -1,0 +1,299 @@
+{
+  "name": "boost-moldova",
+  "title": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "resources": [
+    {
+      "name": "moldova boost v1.7 2005-2009 (en)",
+      "path": "data/Moldova BOOST v1.7 2005-2009 (en).csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 282645993,
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "admin1",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "admin2",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "admin3",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "admin4",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "admin5",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "admin6",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "func1",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "func2",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "econ1",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "econ2",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "fin_source",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "exp_type",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "transfer",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "approved",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "adjusted",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "executed",
+            "type": "number",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "moldova boost v1.7 2010-2014 (en)",
+      "path": "data/Moldova BOOST v1.7 2010-2014 (en).csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 343259027,
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "admin1",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "admin2",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "admin3",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "admin4",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "admin5",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "admin6",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "func1",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "func2",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "econ1",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "econ2",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "fin_source",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "exp_type",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "transfer",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "approved",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "adjusted",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "executed",
+            "type": "number",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "moldova-boost-v1.7-2010-2014-en-sample",
+      "path": "data/moldova-BOOST-v1.7-2010-2014-en-sample.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 72298,
+      "schema": {
+        "fields": [
+          {
+            "name": "year",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "admin1",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "admin2",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "admin3",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "admin4",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "admin5",
+            "type": "number",
+            "description": ""
+          },
+          {
+            "name": "admin6",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "func1",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "func2",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "econ1",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "econ2",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "fin_source",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "exp_type",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "transfer",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "approved",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "adjusted",
+            "type": "integer",
+            "description": ""
+          },
+          {
+            "name": "executed",
+            "type": "number",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "description": "",
+  "repository": "https://github.com/os-data/boost-moldova.git"
+}
