@@ -1,9 +1,14 @@
 {
   "name": "boost-moldova",
-  "title": "",
-  "homepage": "",
+  "title": "Moldova BOOST Government Expenditure Database (sample)",
+  "keywords": ["Moldova", "BOOST", "Expenditure"],
+  "homepage": "http://wbi.worldbank.org/boost/country/moldova",
   "version": "0.1.0",
   "license": "PDDL-1.0",
+  "sources": [{
+    "name": "World Bank",
+    "web": "http://wbi.worldbank.org/boost/country/moldova"
+  }],
   "resources": [
     {
       "name": "moldova-boost-v1.7-2010-2014-en-sample",
@@ -16,7 +21,8 @@
           {
             "name": "year",
             "type": "integer",
-            "description": "Budget Year"
+            "description": "Budget Year",
+            "format": "yyyy"
           },
           {
             "name": "admin1",
