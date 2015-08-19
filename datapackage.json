@@ -102,14 +102,6 @@
       }
     }
   ],
-  "description": "The Moldova BOOST government expenditure database was constructed on
-the basis of treasury data provided to the World Bank by Fintehinform
-under the auspices of the Moldovan Ministry of Finance (MoF). The
-Moldova BOOST dataset presents initial, revised and executed amounts
-dissected in two levels of economic classification (articles and line
-items), two levels of functional classification, source of financing
-and administrative classifications broken down at central government
-(ministries, departments and individual spending units) and local
-level (districts, mayoralties and schools).",
+  "description": "The Moldova BOOST government expenditure database was constructed the basis of treasury data provided to the World Bank by  under the auspices of the Moldovan Ministry of Finance (MoF).  Moldova BOOST dataset presents initial, revised and executed  dissected in two levels of economic classification (articles and  items), two levels of functional classification, source of financing and administrative classifications broken down at central government (ministries, departments and individual spending units) and local level (districts, mayoralties and schools).",
   "repository": "https://github.com/os-data/boost-moldova.git"
 }
