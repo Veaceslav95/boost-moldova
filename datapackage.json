@@ -1,6 +1,9 @@
 {
   "name": "boost-moldova",
   "title": "Moldova BOOST Government Expenditure Database (sample)",
+  "granularity": "aggregated",
+  "direction": "expenditure",
+  "location": "MD",
   "keywords": ["Moldova", "BOOST", "Expenditure"],
   "homepage": "http://wbi.worldbank.org/boost/country/moldova",
   "version": "0.1.0",
@@ -41,12 +44,12 @@
           },
           {
             "name": "admin4",
-            "type": "number",
+            "type": "string",
             "description": "Administrative Classification Variables: Level 3 (Local): Mayoralty"
           },
           {
             "name": "admin5",
-            "type": "number",
+            "type": "string",
             "description": "Administrative Classification Variables: Level 4 (Local): Local Government Institution"
           },
           {
@@ -109,5 +112,31 @@
     }
   ],
   "description": "The Moldova BOOST government expenditure database was constructed the basis of treasury data provided to the World Bank by  under the auspices of the Moldovan Ministry of Finance (MoF).  Moldova BOOST dataset presents initial, revised and executed  dissected in two levels of economic classification (articles and  items), two levels of functional classification, source of financing and administrative classifications broken down at central government (ministries, departments and individual spending units) and local level (districts, mayoralties and schools).",
-  "repository": "https://github.com/os-data/boost-moldova.git"
+  "repository": "https://github.com/os-data/boost-moldova.git",
+  "mapping": {
+    "measures": {
+      "approved": {
+        "source": "approved",
+        "currency": "MDL",
+        "factor": 1
+      },
+      "adjusted": {
+        "source": "adjusted",
+        "currency": "MDL",
+        "factor": 1
+      },
+      "executed": {
+        "source": "executed",
+        "currency": "MDL",
+        "factor": 1
+      }
+    }
+    "date": {
+      "properties": {
+        "year": {
+          "source": "year"
+        }
+      }
+    }
+  }
 }
