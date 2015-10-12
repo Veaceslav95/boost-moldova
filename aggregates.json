@@ -1,0 +1,18 @@
+[
+  {
+    "columns": ["econ1","econ2"],
+    "year": "2013",
+    "aggregate": "approved",
+    "where": "transfer = 'Excluding transfers'",
+    "file": "by-econ1-then-econ2-2013",
+    "format": "csv"
+  },
+  {
+    "columns": ["func1","func2"],
+    "year": "2013",
+    "aggregate": "approved",
+    "where": "transfer = 'Excluding transfers'",
+    "file": "by-func1-then-func2-2013",
+    "format": "csv"
+  }
+]

@@ -1,0 +1,119 @@
+func2,label
+01.01,Legislative authorities
+01.02,Executive authorities
+01.03,"Financial, budget/taxation and control services"
+01.04,Planning and statistics services
+01.08,General purpose authorities and services not attributable to any other group
+01.10,Administrative authorities
+02.01,International cooperation
+02.04,Diplomatic missions
+02.10,Administrative authorities
+03.01,National army
+04.01,Constitutional jurisdiction authorities
+04.03,Courts
+04.04,Attorney General's office
+04.06,Justice authorities unattributable to any other group
+04.08,Probation
+04.10,Administrative authorities
+05.01,Internal affairs authorities
+05.02,Carabineer troops
+05.03,Penitentiaries
+05.04,National security authorities
+05.05,Border police
+05.06,Civil protection and emergency situations
+05.09,Public order enforcement and national security services and authorities unattributable to any other group
+05.10,Administrative authorities
+06.01,Preschool education
+06.02,Primary education
+06.03,Secondary education
+06.04,Higher education
+06.05,Postgraduate education
+06.06,Staff training and retraining courses
+06.07,Education activities and facilities unattributable to any other group
+06.08,Secondary vocational education
+06.10,Administrative authorities
+06.25,Special destination transfers to budgets of administrative territorial units
+07.01,Fundamental research
+07.02,Applied research
+07.03,Training for research staff
+07.04,Research and innovation activities and facilities unattributable to any other group
+07.10,Administrative authorities
+08.02,Cultural events
+08.03,TV and radio broadcasting
+08.04,Periodicals and written media
+08.05,Sports
+08.06,"Culture, arts and sports activities and facilities unattributable to any other group"
+08.07,Youth activities
+08.10,Administrative authorities
+09.01,Hospitals
+09.02,Outpatient clinics and primary health care centers
+09.03,Preventive medicine and prevention services and facilities
+09.05,Health care services and facilities unattributable to any other group
+09.06,National health programs
+09.07,Mandatory health insurance linked services
+09.10,Administrative authorities
+10.01,Pensions for the military
+10.03,Social care facilities
+10.05,Compensations for the transportation companies' loss owing to the indemnities granted to certain groups of people
+10.06,Phased indexing of citizens' deposits at the Banca de Economii
+10.10,Administrative authorities
+10.11,Social care and social insurance services and facilities unattributable to any other group
+10.13,Nominative compensations and indemnities
+10.18,Subsidies for the interest and repayment of preferential bank loans granted to population and housing construction cooperative organizations
+10.20,Population social support funds
+10.21,Social benefits and pensions paid through the state social insurance budget
+10.22,Compensation for the gap in the power tariffs paid by households
+10.23,Transfers to recoup the state social insurance budget deficit
+10.24,Additional financial support for beneficiaries of pensions and social benefits
+10.25,Special destination transfers to budgets of administrative territorial units
+11.01,Agriculture
+11.02,Forestry
+11.04,Water service
+11.05,"Agriculture, forestry, fishery and water services and activities unattributable to any other group"
+11.10,Administrative authorities
+12.01,Environment Protection
+12.03,Hydrometeorology
+12.05,Environment protection and hydrometeorology activities unattributable to any other group
+12.10,Administrative authorities
+12.25,Special destination transfers to budgets of administrative territorial units
+13.01,Mining industry
+13.05,Industry and construction services and activities unattributable to any other group
+13.10,Administrative authorities
+14.01,Motor vehicle transportation
+14.02,Naval transportation
+14.07,Roads service
+14.09,"Transports, roads, communication and IT services and activities unattributable to any other group"
+14.10,Administrative authorities
+15.01,Housing service
+15.02,Utilities
+15.03,"Health control, including environment pollution control"
+15.04,Utility and housing services and activities unattributable to any other group
+15.10,Administrative authorities
+16.01,Natural gas installations/networks
+16.02,Power installations/networks
+16.04,Fuel and power services and activities unattributable to any other group
+17.01,Internal state debt servicing
+17.03,External state debt servicing
+18.02,State material reserves
+18.04,Other state reserves servicing actions
+18.10,Administrative authorities
+19.01,Small business State support
+19.03,Other economy-related services
+19.10,Administrative authorities
+20.02,Government's reserve funds
+20.03,Local public administration authorities' reserve funds
+20.04,Transfers to the administrative-territorial units (ATU) budgets from the regions financial support fund
+20.05,Special purpose transfers to the administrative-territorial units (ATU) budgets
+20.06,Transfers to budgets of administrative territorial units from the compensation fund
+20.09,Costs unattributable to any other group
+23.00,Net lending
+23.01,Lending to another-tier budgets
+23.02,Repayment of loans by another-tier budgets
+23.04,Repayment of loans by non-financial facilities
+23.06,Repayment of loans by financial facilities
+23.07,Lending to other facilities and organizations
+23.08,Repayment of loans by other facilities and organizations
+23.11,Restoring the decommissioned means to service the state bonds issued on external loans
+23.14,Repayment of loans by another-tier budgets refinanced from external sources
+23.20,"Returning to the budget of means unused during previous years, means not used as per intended purpose and/or over-expenditure"
+00.00,NO DATA

@@ -1,0 +1,23 @@
+func1,label
+01,General purpose state services
+02,Foreign relations
+03,National defense
+04,Justice
+05,Enforcement of public order and national security
+06,Education
+07,Research and innovations
+08,"Culture, arts, sports and youth activities"
+09,Healthcare
+10,Social care and social insurance
+11,"Agriculture, forestry, fishery and water service"
+12,Environment protection and hydrometeorology
+13,Industry and construction
+14,"Transports, roads, communications and IT"
+15,Utilities and housing
+16,Fuel and energy
+17,State debt servicing
+18,Restoring the state reserves
+19,Other economy-related services
+20,Services and activities unattributable to any other core groups
+23,Net lending
+00,NO DATA

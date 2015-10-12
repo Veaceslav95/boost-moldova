@@ -1,0 +1,236 @@
+econ2,label
+111.00,Remuneration of work
+112.00,Mandatory state social insurance premiums
+113.00,Payment for goods and services
+113.01,Power (electricity)
+113.02,Natural gases
+113.03,"Office supplies, utensils and household goods"
+113.04,Heating
+113.05,"Manuals, teaching aids/materials, teaching and specialty internships for pupils and students, methodological and technical/research literature"
+113.06,Books and periodicals
+113.07,Special equipment and gear/inventory
+113.09,Nutrition/food
+113.10,Drugs and consumables
+113.11,Telecommunication and mail services
+113.12,Research papers
+113.13,Transportation services
+113.14,Soft inventory and equipment
+113.15,Fodder
+113.16,Research and innovation services contracted out by self-finance facilities
+113.17,Current refurbishment of premises and buildings
+113.18,Current repair of equipment and inventory
+113.19,Rent-out of goods
+113.20,"Use of government and local insignia/symbols, state distinction signs"
+113.21,Trainings
+113.22,Printing services
+113.23,Representation costs
+113.24,Departmental periodicals
+113.26,Fuel
+113.27,Purchase and installation of meters
+113.28,Fines
+113.29,Cross-department security
+113.30,IT and PC works
+113.31,Legal / attorney services
+113.32,Milk formula for infants
+113.33,Prosthetics
+113.34,Water supply and sewer
+113.35,Hygiene
+113.37,Rent of circuits and transmitters
+113.38,Compensation for transport costs
+113.39,Compensation for accommodation costs
+113.40,Referrals to spa therapy facilities
+113.45,Goods and services unattributable to any other items
+113.46,Educational services to fulfill state staff training orders
+113.47,Commission fees for banking services
+113.48,Healthcare services paid abroad
+114.00,Duty travels
+114.01,Travels within the country
+114.02,Travels abroad
+114.03,Indemnities payable to diplomatic mission members and to special missions abroad
+116.00,Employer's share of the mandatory health insurance premiums
+116.01,Employer's share of the mandatory health insurance premiums payable in the country
+116.02,Employer's share of the mandatory health insurance premiums payable abroad
+117.00,Mandatory health insurance premiums payable by the Government
+117.01,Compulsory health insurance contributions for unemployed
+118.00,Enforceable documents
+118.01,Awarded amount according to enforceable documents
+118.02,Moral damage according to enforceable documents
+118.03,Court costs
+121.00,Payment of interest on internal loans
+121.03,Payment of interest on government securities loans
+121.04,Payment of interest on commercial bank loans
+121.05,Payment of interest on other loans
+121.06,Payment of interest on the converted government securities loans
+121.09,Payment of interest on loans in the form of state securities issued to ensure financial stability
+122.00,Payment of interest on external loans
+123.00,Payment of interest by another-tier public administration authorities
+124.00,Payment on the commitments owed to international finance facilities
+125.00,Payment of commissions and other fees calculated and paid to internal creditors
+126.00,Payment of commissions and other fees calculated and paid to external creditors
+131.00,Transfers for goods and services
+131.01,Transfers to cover the price-tariff gap
+131.02,Transfers to recoup the loss incurred following the provision of transport indemnities
+131.05,Transfers for land development
+131.09,Other transfers for goods and services
+132.00,Transfers for production purposes
+132.01,Transfers for land irrigation
+132.03,Transfers to support agriculture unattributable to any other items
+132.06,Transfers to support newspaper and magazine editorials
+132.08,Transfers for real estate valuation and revaluation
+132.09,Other transfers for production purposes
+132.11,Transfers for local public road maintenance and repair works
+132.12,Transfers for health care services
+132.13,Transfers for export promotion
+133.01,Transfers from the state budget fund for the financial support of regions to the second-tier budgets and the municipality of Balti budget
+133.02,"Special purpose transfers from the state budget to the second-tier budgets and to the budget of the municipality of Balti, pursuant to the State Budget Law"
+133.03,Transfers to another-tier budgets for payroll and social insurance budget premium payouts
+133.04,"Special purpose transfers from the state budget to the second-tier budgets and to the budget of the Municipality of Balti, pursuant to the normative and legislative papers other than the state budget law"
+133.06,Transfers between the components of the state budget
+133.07,Transfers between the components of administrative-territorial units budgets
+133.09,Transfers from the fund for the financial support of regions under the second-tier budgets and the budget of the municipality of Balti to the state budget
+133.10,Transfers to the fund for the financial support of regions under the second-tier budgets and the budget of the municipality of Balti from the first-tier budgets
+133.15,Transfers from the special means of the budget-financed public facilities
+133.16,Transfers from the compensation fund to the budgets of level I administrative territorial units
+133.17,Transfers from the compensation fund to the budgets of level II administrative territorial units
+133.32,Current transfers between the state budget special funds component and the first- and second-tier budget special funds component
+133.33,Current transfers between the state budget externally-funded projects component and the fist- and second-tier budget externally-funded projects component
+133.34,Current transfers between the core component of the first- and second-tier budgets and the state budget special funds component
+133.35,Current transfers between the first- and second-tier budget core component and the state budget special means component
+133.39,Current transfers to mandatory health insurance funds for national programs
+133.51,"Current transfers between project components funded from external sources of level I budgets, between administrative territorial units"
+133.61,Current transfers between the core component and the first-tier budget externally-funded projects component
+133.62,Current transfers between the core component and the first-tier budget special means component
+133.63,Current transfers between the first-tier budget special means and externally-funded projects components
+133.65,Current transfers between the base component and the special funds component of first-tier budgets
+133.71,Current transfers between the second-tier core component and the special funds component
+133.72,Current transfers between the second-tier budget core and special means components
+133.73,Current transfers between the second-tier budget core and externally-funded projects components
+133.75,Current transfers within the special funds component of second-tier budgets
+133.76,Current transfers between the second-tier budget special means and externally-funded projects components
+133.82,Current transfers between the first-tier budget core and special means components
+133.84,Current transfers between the first-tier budget special means components
+134.00,Transfers to financial facilities and other organizations
+134.03,Transfers to insurance companies providing individual mandatory state insurance services
+134.07,Transfers to insure against agriculture risks
+134.09,Other transfers
+134.10,Transfers to subsidize the interest rates on preferential loans
+134.11,Transfers to repay the preferential loans
+135.00,Transfers to population
+135.01,Lifetime pensions and indemnities
+135.02,"Monthly state allocations to the war veterans with disabilities, participants to the WWII and their families"
+135.03,Add-ons to the disability pensions
+135.04,Compensation for the property of people subjected to repressions and subsequently acquitted
+135.05,One-off compensations to the family members of acquitted people
+135.07,Scholarships
+135.08,Transfers for the phased indexation of citizen deposits at the Banca de Economii
+135.10,Payment of house rent and utilities
+135.11,Support for people affected by natural disasters
+135.13,Compensation for the travel costs incurred by pupils and students
+135.16,Transfers to the general education fund and the student social insurance fund
+135.18,Compensation for the transport costs incurred by the disabled
+135.19,Nominative compensations
+135.20,One-off financial aids granted to population by the central public authorities
+135.21,One-off financial aids granted to population pursuant to the decisions taken by local public administration authorities
+135.22,Banking and mail services to deliver payments to population
+135.23,Indemnities for families with TB patients
+135.24,Compensation for travel costs within the CIS member states
+135.25,Other transfers made to population
+135.26,Cash aids paid to refugees
+135.27,Compensation for the costs incurred when organizing funerals for the war veterans and disabled
+135.28,Cash compensation in exchange for spa treatment passes
+135.29,Compensation for the purchase (construction) of housing
+135.30,Rent compensations
+135.31,Benefits paid upon cessation of work relations
+135.32,Wage for position
+135.33,Benefits for temporary work incapacity paid from employer's funds
+135.34,Allowances and financial aid for orphan students at state self-sustaining higher education institutions
+135.35,"Maternity benefits, child care allowances, and sick child care allowances"
+136.00,Transfers abroad
+136.01,Transfers to international governments and organizations
+136.02,CIS membership fees
+136.03,Other transfers abroad
+138.00,Transfers to the state social insurance budget
+138.01,Pensions
+138.02,Allocations
+138.03,Indemnities
+138.04,Compensations
+138.05,Cash aids
+138.17,Banking and mail services
+138.25,Other payments
+139.00,Transfers to mandatory healthcare insurance funds
+139.01,Mandatory healthcare insurance premiums for categories of unemployed persons
+139.25,Other payments
+191.00,Current transfers to implement the externally-funded projects
+191.01,Contributions from the Government and public authorities
+191.02,Contributions from external grants
+241.00,Capital investments
+241.01,Capital investments in the construction of housing
+241.03,Capital investments in the construction of social/culture facilities
+241.04,Capital investments in the construction of administrative buildings
+241.05,Capital investments in the construction of utility facilities
+241.06,Capital investments in the construction of gas main / pipes
+241.07,Capital investments in the construction of other facilities
+241.10,Capital investments in perennial plantations
+242.00,Purchase of fixed assets
+243.00,Capital repair works
+243.01,Capital refurbishment of housing premises
+243.02,Capital refurbishment of production facilities
+243.03,Capital refurbishment of social/culture facilities
+243.04,Capital refurbishment of administrative buildings
+243.05,Capital refurbishment of transportation units
+243.06,Capital refurbishment of other facilities
+251.00,Establishment of state reserves
+261.00,Purchase of land
+271.00,Capital transfers within country
+271.02,Transfers to state-owned companies
+271.05,Transfers to the roads service
+271.06,Capital transfers to support agriculture unattributable to any other items
+271.07,"Capital transfers for topographic/geodesy, mapping and cadastre works"
+271.08,Capital transfers for geological surveying
+271.09,Capital transfers for typical planning
+271.10,Capital transfers for land development
+271.11,Capital transfers for erosion control and soil fertility recovery measures
+271.12,Capital transfers to support wine-growing
+271.13,Capital transfers to support fruit trees industry
+271.14,Capital transfers for the land reform works
+271.15,Other capital transfers within the country
+271.18,Capital transfers to support animal husbandry
+271.19,Capital transfers to purchase equipment and appliances
+273.01,Capital transfers in constructions pursuant to the state budget law
+273.02,Capital transfers for the purchase of heavy-duty equipment and supplies attributable to fixed assets pursuant to the state budget law
+273.03,Capital transfers for capital repair works pursuant to the state budget law
+273.04,Capital transfers in constructions pursuant to the normative and legislative papers other than the state budget law
+273.05,Capital transfers for capital repair works pursuant to normative and legislative papers other than the state budget law
+273.06,Capital transfers for the purchase of heavy-duty equipment and supplies attributable to fixed assets pursuant to normative and legislative papers other than the state budget law
+273.32,Capital transfers between the state budget special funds component and the second-tier budget special funds component
+273.33,Capital transfers between the state budget externally-funded projects component and the first- and second-tier budget externally-funded projects component
+273.35,Capital transfers between the first- and second-tier budget core component and the state budget special means component
+273.61,Capital transfers between the core component and the first-tier budget externally-funded projects component
+273.62,Capital transfers between the core component and the first-tier budget special means component
+273.63,Capital transfers between the first-tier budget special means and externally-funded projects components
+273.64,Capital transfers between the special funds component and externally financed projects component of first-tier budgets
+273.65,Capital transfers between the base component and special funds component of first-tier budgets
+273.71,Capital transfers between the second-tier budget core and special funds components
+273.72,Capital transfers between the second-tier budget core and special means components
+273.73,Capital transfers between the second-tier budget core and externally-funded projects components
+273.77,Capital transfers as part of projects funded from foreign sources of tier two budgets
+273.81,Capital transfers between the first-tier budget core components
+273.82,Capital transfers between the first-tier budget core and special means components
+273.83,Capital transfers between the first-tier budget core and externally-funded projects components
+273.84,Capital transfers between the first-tier budget special means components
+291.00,Capital transfers to implement the externally-funded projects
+291.01,Share of Government and public authorities
+291.02,Share of external grants
+291.03,Share of external loans
+291.04,Contributions from other means
+291.05,Transfer of a share of a grant received by applicant to a partner abroad
+511.00,Purchase of shares
+611.00,Net lending
+611.01,Net lending to another-tier budgets
+611.02,Net lending to non-financial facilities
+611.03,Net lending to financial facilities
+611.04,Net lending to other facilities
+611.05,Net lending to service government bonds
+611.06,Returns to the state budget
+611.09,Repurchase of non-financial assets
+000.00,NO DATA

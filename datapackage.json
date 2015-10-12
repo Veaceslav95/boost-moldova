@@ -1,118 +1,380 @@
 {
   "name": "boost-moldova",
-  "title": "Moldova BOOST Government Expenditure Database (sample)",
-  "granularity": "aggregated",
+  "title": "Moldova BOOST Government Expenditure Database",
   "direction": "expenditure",
-  "location": "MD",
-  "keywords": ["Moldova", "BOOST", "Expenditure"],
+  "granularity": "aggregated",
   "homepage": "http://wbi.worldbank.org/boost/country/moldova",
-  "version": "0.1.0",
+  "keywords": ["Moldova", "BOOST", "Expenditure"],
   "license": "PDDL-1.0",
+  "location": "MD",
+  "description": "Moldova BOOST government expenditure data.  This database on which",
+  "repository": "https://github.com/os-data/boost-moldova.git",
   "sources": [{
     "name": "World Bank",
     "web": "http://wbi.worldbank.org/boost/country/moldova"
   }],
+  "version": "0.1.0",
   "resources": [
     {
-      "name": "moldova-boost-v1.7-2010-2014-en-sample",
-      "path": "data/moldova-BOOST-v1.7-2010-2014-en-sample.csv",
+      "name": "admin2",
+      "path": "data/admin2.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 72298,
+      "bytes": 3103,
+      "schema": {
+        "fields": [
+          {
+            "name": "admin2",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "admin3",
+      "path": "data/admin3.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 64769,
+      "schema": {
+        "fields": [
+          {
+            "name": "admin3",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "admin4",
+      "path": "data/admin4.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 26539,
+      "schema": {
+        "fields": [
+          {
+            "name": "admin4",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "admin5",
+      "path": "data/admin5.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 322668,
+      "schema": {
+        "fields": [
+          {
+            "name": "admin5",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "admin6",
+      "path": "data/admin6.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 21465,
+      "schema": {
+        "fields": [
+          {
+            "name": "admin6",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "boost-moldova",
+      "path": "data/boost-moldova.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 48386194,
       "schema": {
         "fields": [
           {
             "name": "year",
-            "type": "integer",
-            "description": "Budget Year",
-            "format": "yyyy"
+            "type": "string",
+            "description": "Year"
           },
           {
             "name": "admin1",
             "type": "string",
-            "description": "Administrative Classification Variables: Level 1: Budget"
+            "description": "Budget -- Administrative Classification (Level 1)"
           },
           {
             "name": "admin2",
             "type": "string",
-            "description": "Administrative Classification Variables: Level 2: Public Authority"
+            "description": "Public Authority -- Administrative Classification (Level 2)"
           },
           {
             "name": "admin3",
             "type": "string",
-            "description": "Administrative Classification Variables: Level 3 (Central): Central Government Institution"
+            "description": "Central Government Institution -- Administrative Classification (Level 3-Central)"
           },
           {
             "name": "admin4",
             "type": "string",
-            "description": "Administrative Classification Variables: Level 3 (Local): Mayoralty"
+            "description": "Municipality -- Administrative Classification (Level 3-Local)"
           },
           {
             "name": "admin5",
             "type": "string",
-            "description": "Administrative Classification Variables: Level 4 (Local): Local Government Institution"
+            "description": "Local Government Institution -- Administrative Classification (Level 4-Local)"
           },
           {
             "name": "admin6",
             "type": "string",
-            "description": "Administrative Classification Variables: Institution Type"
+            "description": "Institution Type"
           },
           {
             "name": "func1",
             "type": "string",
-            "description": "Functional Classification Variables: Level 1: Main Group"
+            "description": "Main Group -- Functional Classification (Level 1)"
           },
           {
             "name": "func2",
             "type": "string",
-            "description": "Functional Classification Variables: Level 2: Group"
+            "description": "Group -- Functional Classification (Level 2)"
           },
           {
             "name": "econ1",
             "type": "string",
-            "description": "Economic Classification Variables: Level 1: Article"
+            "description": "Article -- Economic Classification (Level 1)"
           },
           {
             "name": "econ2",
             "type": "string",
-            "description": "Economic Classification Variables: Level 2: Line Item"
+            "description": "Line Item -- Economic Classification (Level 2)"
           },
           {
             "name": "fin_source",
             "type": "string",
-            "description": "Other Classification Variables: Source of Financing: Budget Component"
+            "description": "Budget Component -- Source of Financing"
           },
           {
             "name": "exp_type",
             "type": "string",
-            "description": "Other Classification Variables: Expenditure Type"
+            "description": "Expenditure Type"
           },
           {
             "name": "transfer",
             "type": "string",
-            "description": "Other Classification Variables: Intrabudgetary Transfers"
+            "description": "Intrabudgetary Transfers"
           },
           {
             "name": "approved",
-            "type": "integer",
-            "description": "Approved Budget (Lei)"
+            "type": "number",
+            "description": "Approved"
           },
           {
             "name": "adjusted",
-            "type": "integer",
-            "description": "Adjusted Budget (Lei)"
+            "type": "number",
+            "description": "Adjusted"
           },
           {
             "name": "executed",
             "type": "number",
-            "description": "Executed Budget (Lei)"
+            "description": "Executed"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "fields": "admin2",
+            "reference": {
+              "datapackage": "boost-moldova",
+              "resource": "admin2",
+              "fields": "admin2"
+            }
+          },
+          {
+            "fields": "admin3",
+            "reference": {
+              "datapackage": "boost-moldova",
+              "resource": "admin3",
+              "fields": "admin3"
+            }
+          },
+          {
+            "fields": "admin4",
+            "reference": {
+              "datapackage": "boost-moldova",
+              "resource": "admin4",
+              "fields": "admin4"
+            }
+          },
+          {
+            "fields": "admin6",
+            "reference": {
+              "datapackage": "boost-moldova",
+              "resource": "admin6",
+              "fields": "admin6"
+            }
+          },
+          {
+            "fields": "admin5",
+            "reference": {
+              "datapackage": "boost-moldova",
+              "resource": "admin5",
+              "fields": "admin5"
+            }
+          },
+          {
+            "fields": "econ1",
+            "reference": {
+              "datapackage": "boost-moldova",
+              "resource": "econ1",
+              "fields": "econ1"
+            }
+          },
+          {
+            "fields": "econ2",
+            "reference": {
+              "datapackage": "boost-moldova",
+              "resource": "econ2",
+              "fields": "econ2"
+            }
+          },
+          {
+            "fields": "func1",
+            "reference": {
+              "datapackage": "boost-moldova",
+              "resource": "func1",
+              "fields": "func1"
+            }
+          },
+          {
+            "fields": "func2",
+            "reference": {
+              "datapackage": "boost-moldova",
+              "resource": "func2",
+              "fields": "func2"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "econ1",
+      "path": "data/econ1.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 1464,
+      "schema": {
+        "fields": [
+          {
+            "name": "econ1",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "econ2",
+      "path": "data/econ2.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 14938,
+      "schema": {
+        "fields": [
+          {
+            "name": "econ2",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "func1",
+      "path": "data/func1.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 697,
+      "schema": {
+        "fields": [
+          {
+            "name": "func1",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
+      "name": "func2",
+      "path": "data/func2.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 5662,
+      "schema": {
+        "fields": [
+          {
+            "name": "func2",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": ""
           }
         ]
       }
     }
   ],
-  "description": "The Moldova BOOST government expenditure database was constructed the basis of treasury data provided to the World Bank by  under the auspices of the Moldovan Ministry of Finance (MoF).  Moldova BOOST dataset presents initial, revised and executed  dissected in two levels of economic classification (articles and  items), two levels of functional classification, source of financing and administrative classifications broken down at central government (ministries, departments and individual spending units) and local level (districts, mayoralties and schools).",
-  "repository": "https://github.com/os-data/boost-moldova.git",
   "mapping": {
     "measures": {
       "approved": {
@@ -132,11 +394,129 @@
       }
     },
     "date": {
-      "properties": {
+      "dimensionType": "datetime",
+      "fields": {
         "year": {
           "source": "year"
         }
       }
+    },
+    "func1": {
+      "dimensionType": "classification",
+      "fields": {
+        "id": {
+          "source": "func1"
+        },
+        "title": {
+          "source": "label",
+          "resource": "func1"
+        }
+      },
+      "primaryKey": "func1"
+    },
+    "func2": {
+      "dimensionType": "classification",
+      "fields": {
+        "id": {
+          "source": "func2"
+        },
+        "title": {
+          "source": "label",
+          "resource": "func2"
+        }
+      },
+      "primaryKey": "func2"
+    },
+    "econ1": {
+      "dimensionType": "classification",
+      "fields": {
+        "id": {
+          "source": "econ1"
+        },
+        "title": {
+          "source": "label",
+          "resource": "econ1"
+        }
+      },
+      "primaryKey": "econ1"
+    },
+    "econ2": {
+      "dimensionType": "classification",
+      "fields": {
+        "id": {
+          "source": "econ2"
+        },
+        "title": {
+          "source": "label",
+          "resource": "econ2"
+        }
+      },
+      "primaryKey": "econ2"
+    },
+    "admin2": {
+      "dimensionType": "classification",
+      "fields": {
+        "id": {
+          "source": "admin2"
+        },
+        "title": {
+          "source": "label",
+          "resource": "admin2"
+        }
+      },
+      "primaryKey": "admin2"
+    },
+    "admin3": {
+      "dimensionType": "classification",
+      "fields": {
+        "id": {
+          "source": "admin3"
+        },
+        "title": {
+          "source": "label",
+          "resource": "admin3"
+        }
+      },
+      "primaryKey": "admin3"
+    },
+    "admin4": {
+      "dimensionType": "classification",
+      "fields": {
+        "id": {
+          "source": "admin4"
+        },
+        "title": {
+          "source": "label",
+          "resource": "admin4"
+        }
+      },
+      "primaryKey": "admin4"
+    },
+    "admin5": {
+      "dimensionType": "classification",
+      "fields": {
+        "id": {
+          "source": "admin5"
+        },
+        "title": {
+          "source": "label",
+          "resource": "admin5"
+        }
+      },
+      "primaryKey": "admin5"
+    },
+    "admin6": {
+      "dimensionType": "classification",
+      "fields": {
+        "id": {
+          "source": "admin6"
+        },
+        "title": {
+          "source": "label",
+          "resource": "admin6"
+        }
+      },
+      "primaryKey": "admin6"
     }
   }
 }

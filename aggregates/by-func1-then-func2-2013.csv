@@ -1,0 +1,108 @@
+func1,func2,amount
+"Agriculture, forestry, fishery and water service",Administrative authorities,33774800.0
+"Agriculture, forestry, fishery and water service",Agriculture,1121175800.0
+"Agriculture, forestry, fishery and water service","Agriculture, forestry, fishery and water services and activities unattributable to any other group",751383100.0
+"Agriculture, forestry, fishery and water service",Forestry,10114600.0
+"Agriculture, forestry, fishery and water service",Water service,13072500.0
+"Culture, arts, sports and youth activities",Administrative authorities,30022800.0
+"Culture, arts, sports and youth activities",Cultural events,523336726.0
+"Culture, arts, sports and youth activities","Culture, arts and sports activities and facilities unattributable to any other group",42393773.0
+"Culture, arts, sports and youth activities",Periodicals and written media,8717300.0
+"Culture, arts, sports and youth activities",Sports,230758111.0
+"Culture, arts, sports and youth activities",TV and radio broadcasting,97775200.0
+"Culture, arts, sports and youth activities",Youth activities,24312500.0
+Education,Administrative authorities,48727200.0
+Education,Education activities and facilities unattributable to any other group,523202629.0
+Education,Higher education,596213400.0
+Education,Postgraduate education,64308200.0
+Education,Preschool education,1708594034.0
+Education,Primary education,93618280.0
+Education,Secondary education,3781827328.0
+Education,Secondary vocational education,415275100.0
+Education,Staff training and retraining courses,17429400.0
+Enforcement of public order and national security,Carabineer troops,87911700.0
+Enforcement of public order and national security,Civil protection and emergency situations,195202200.0
+Enforcement of public order and national security,Internal affairs authorities,798684000.0
+Enforcement of public order and national security,National security authorities,403106600.0
+Enforcement of public order and national security,Penitentiaries,328230300.0
+Enforcement of public order and national security,Public order enforcement and national security services and authorities unattributable to any other group,53611800.0
+Environment protection and hydrometeorology,Administrative authorities,8772200.0
+Environment protection and hydrometeorology,Environment Protection,332484200.0
+Environment protection and hydrometeorology,Environment protection and hydrometeorology activities unattributable to any other group,37773100.0
+Environment protection and hydrometeorology,Hydrometeorology,17248900.0
+Foreign relations,Administrative authorities,21252300.0
+Foreign relations,Diplomatic missions,201962800.0
+Foreign relations,International cooperation,49312000.0
+Fuel and energy,Fuel and power services and activities unattributable to any other group,220122200.0
+Fuel and energy,Natural gas installations/networks,148842996.0
+Fuel and energy,Power installations/networks,58500000.0
+General purpose state services,Administrative authorities,145856600.0
+General purpose state services,Executive authorities,725848230.0
+General purpose state services,"Financial, budget/taxation and control services",684774600.0
+General purpose state services,General purpose authorities and services not attributable to any other group,124969000.0
+General purpose state services,Legislative authorities,104152800.0
+General purpose state services,Planning and statistics services,57377000.0
+Healthcare,Administrative authorities,11139700.0
+Healthcare,Health care services and facilities unattributable to any other group,415890543.0
+Healthcare,Hospitals,150000.0
+Healthcare,Mandatory health insurance linked services,4319300000.0
+Healthcare,National health programs,164967900.0
+Healthcare,Outpatient clinics and primary health care centers,2686900.0
+Healthcare,Preventive medicine and prevention services and facilities,277723800.0
+Industry and construction,Administrative authorities,30055400.0
+Industry and construction,Industry and construction services and activities unattributable to any other group,21566700.0
+Industry and construction,Mining industry,3000000.0
+Justice,Administrative authorities,35328600.0
+Justice,Attorney General's office,130066800.0
+Justice,Constitutional jurisdiction authorities,10982400.0
+Justice,Courts,241610100.0
+Justice,Justice authorities unattributable to any other group,185746200.0
+Justice,Probation,20381700.0
+National defense,National army,314757600.0
+Net lending,Lending to another-tier budgets,0.0
+Net lending,Net lending,4100000.0
+Net lending,Repayment of loans by another-tier budgets,0.0
+Net lending,Repayment of loans by another-tier budgets refinanced from external sources,-7312000.0
+Net lending,Repayment of loans by financial facilities,-10132500.0
+Net lending,Repayment of loans by non-financial facilities,-36335800.0
+Net lending,Repayment of loans by other facilities and organizations,0.0
+Net lending,Restoring the decommissioned means to service the state bonds issued on external loans,-34265000.0
+Net lending,"Returning to the budget of means unused during previous years, means not used as per intended purpose and/or over-expenditure",0.0
+Other economy-related services,Administrative authorities,14339500.0
+Other economy-related services,Other economy-related services,201914600.0
+Other economy-related services,Small business State support,17845600.0
+Research and innovations,Administrative authorities,16289800.0
+Research and innovations,Applied research,194084800.0
+Research and innovations,Fundamental research,85164500.0
+Research and innovations,Research and innovation activities and facilities unattributable to any other group,40447800.0
+Research and innovations,Training for research staff,2757700.0
+Restoring the state reserves,Administrative authorities,4535500.0
+Restoring the state reserves,Other state reserves servicing actions,9346800.0
+Restoring the state reserves,State material reserves,30914000.0
+Services and activities unattributable to any other core groups,Costs unattributable to any other group,343777730.0
+Services and activities unattributable to any other core groups,Government's reserve funds,62000000.0
+Services and activities unattributable to any other core groups,Local public administration authorities' reserve funds,63640200.0
+Social care and social insurance,Additional financial support for beneficiaries of pensions and social benefits,0.0
+Social care and social insurance,Administrative authorities,36632900.0
+Social care and social insurance,Compensation for the gap in the power tariffs paid by households,24860100.0
+Social care and social insurance,Compensations for the transportation companies' loss owing to the indemnities granted to certain groups of people,1000000.0
+Social care and social insurance,Nominative compensations and indemnities,19676200.0
+Social care and social insurance,Pensions for the military,840896300.0
+Social care and social insurance,Phased indexing of citizens' deposits at the Banca de Economii,80000000.0
+Social care and social insurance,Population social support funds,105120000.0
+Social care and social insurance,Social benefits and pensions paid through the state social insurance budget,10761700000.0
+Social care and social insurance,Social care and social insurance services and facilities unattributable to any other group,448101000.0
+Social care and social insurance,Social care facilities,520089800.0
+Social care and social insurance,Subsidies for the interest and repayment of preferential bank loans granted to population and housing construction cooperative organizations,6700000.0
+State debt servicing,External state debt servicing,217967400.0
+State debt servicing,Internal state debt servicing,451600000.0
+"Transports, roads, communications and IT",Administrative authorities,10687410.0
+"Transports, roads, communications and IT",Motor vehicle transportation,199526200.0
+"Transports, roads, communications and IT",Naval transportation,7924100.0
+"Transports, roads, communications and IT",Roads service,2252197800.0
+"Transports, roads, communications and IT","Transports, roads, communication and IT services and activities unattributable to any other group",4484600.0
+Utilities and housing,Administrative authorities,5314100.0
+Utilities and housing,"Health control, including environment pollution control",1456800.0
+Utilities and housing,Housing service,88710391.0
+Utilities and housing,Utilities,823947632.0
+Utilities and housing,Utility and housing services and activities unattributable to any other group,5904600.0

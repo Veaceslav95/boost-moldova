@@ -1,0 +1,936 @@
+admin4,label
+0008,Mayoralty of Condrita
+0030,Mayoralty of Elizaveta
+0042,Mayoralty of Sadovoe
+0054,Mayoralty of Botnaresti
+0061,Mayoralty of Calfa
+0068,Mayoralty of Merenii Noi
+0082,Mayoralty of Ochiul Ros
+0098,Mayoralty of Telita
+0171,Mayoralty of Zolotievca
+0173,Mayoralty of the municipality of Balti
+0178,Mayoralty of Balcauti
+0180,Mayoralty of Bogdanesti
+0182,Mayoralty of Bulboaca
+0290,Mayoralty of Borosenii Noi
+0296,Mayoralty of Braniste
+0303,Mayoralty of Vasileuti
+0325,Mayoralty of Corlateni
+0338,Mayoralty of Mihaileni
+0346,Mayoralty of Pelinia
+0354,Mayoralty of Racaria
+0371,Mayoralty of Pirjota
+0378,Mayoralty of Recea
+0404,Mayoralty of Sturzeni
+0418,Mayoralty of Hiliuti
+0424,Mayoralty of Nihoreni
+0430,Mayoralty of Saptebani
+0451,Mayoralty of the city of Riscani
+0465,Mayoralty of the city of Costesti
+0482,Mayoralty of Sofia
+0490,Mayoralty of Dominteni
+0499,Mayoralty of Hasnasenii Mari
+0515,Mayoralty of Balatina
+0524,Mayoralty of Danu
+0546,Mayoralty of Camenca
+0554,Mayoralty of Cajba
+0555,Mayoralty of Cobani
+0561,Mayoralty of Cuhnesti
+0583,Mayoralty of Limbenii Noi
+0594,Mayoralty of Limbenii Vechi
+0601,Mayoralty of Hlina
+0603,Mayoralty of Dusmani
+0611,Mayoralty of Petrunea
+0619,Mayoralty of Sturzovca
+0626,Mayoralty of Ustia
+0634,Mayoralty of Fundurii Vechi
+0642,Mayoralty of Ciuciulea
+0648,Mayoralty of Iabloana
+0657,Mayoralty of the city of Glodeni
+0665,Mayoralty of Albinetul Vechi
+0671,Mayoralty of Bocani
+0680,Mayoralty of Glinjeni
+0685,Mayoralty of Egorovca
+0695,Mayoralty of Ilenuta
+0699,Mayoralty of Iscalau
+0712,Mayoralty of Izvoare
+0717,Mayoralty of Calinesti
+0728,Mayoralty of Calugar
+0738,Mayoralty of Marandeni
+0743,Mayoralty of Natalievca
+0767,Mayoralty of Navirnet
+0774,Mayoralty of Obreja Veche
+0782,Mayoralty of Pruteni
+0789,Mayoralty of Pinzareni
+0797,Mayoralty of Pirlita
+0801,Mayoralty of Rautel
+0805,Mayoralty of Scumpia
+0812,Mayoralty of Sarata Veche
+0822,Mayoralty of Falestii Noi
+0828,Mayoralty of Hiliuti
+0835,Mayoralty of Horesti
+0848,Mayoralty of Ciolacu Nou
+0858,Mayoralty of the city of Falesti
+0877,Mayoralty of Alexandreni
+0893,Mayoralty of Bilicenii Noi
+0903,Mayoralty of Bilicenii Vechi
+0912,Mayoralty of Chiscareni
+0929,Mayoralty of Copaceni
+0942,Mayoralty of Coscodeni
+0961,Mayoralty of Cubolta
+0968,Mayoralty of Dobrogea Veche
+0974,Mayoralty of Draganesti
+1007,Mayoralty of Dumbravita
+1015,Mayoralty of Heciul Nou
+1022,Mayoralty of Iezarenii Vechi
+1034,Mayoralty of Pepeni
+1053,Mayoralty of Prepelita
+1062,Mayoralty of Radoaia
+1068,Mayoralty of Singereii Noi
+1075,Mayoralty of Iliciovca
+1083,Mayoralty of Zgardesti
+1087,District Council Dubasari (Cocieri)
+1097,Mayoralty of Ghiliceni
+1108,Mayoralty of the city of Singerei
+1130,Mayoralty of the city of Biruinta
+1137,Mayoralty of Andrusul de Jos
+1138,Mayoralty of Baurci-Moldoveni
+1139,Mayoralty of Burlacu
+1140,Mayoralty of Chioselia Mare
+1141,Mayoralty of Crihana Veche
+1142,Mayoralty of Cucoara
+1143,Mayoralty of Doina
+1144,Mayoralty of Larga Noua
+1145,Mayoralty of Lebedenco
+1146,Mayoralty of Manta
+1147,Mayoralty of Moscovei
+1148,Mayoralty of Pelinei
+1149,Mayoralty of Rosu
+1150,Mayoralty of Taraclia de Salcie
+1151,Mayoralty of Tataresti
+1152,Mayoralty of Zirnesti
+1153,Mayoralty of Alexanderfeld
+1154,Mayoralty of Gavanoasa
+1155,Mayoralty of Brinza
+1156,Mayoralty of Vadul lui Isac
+1157,Mayoralty of Valeni
+1158,Mayoralty of Colibas
+1160,District Council Cahul
+1172,Mayoralty of Antonesti
+1173,Mayoralty of Baimaclia
+1174,Mayoralty of Cania
+1175,Mayoralty of Capaclia
+1176,Mayoralty of Chioselia
+1177,Mayoralty of Ciobalaccia
+1178,Mayoralty of Cirpesti
+1179,Mayoralty of Cociulia
+1180,Mayoralty of Gotesti
+1181,Mayoralty of Larguta
+1182,Mayoralty of Pleseni
+1183,Mayoralty of Sadic
+1184,Mayoralty of Tartaul
+1185,Mayoralty of Tiganca
+1186,Mayoralty of Visniovca
+1187,Mayoralty of the city of Cantemir
+1190,Mayoralty of Alexandru Ioan Cuza
+1191,Mayoralty of Burlaceni
+1192,Mayoralty of Giurgiulesti
+1193,Mayoralty of Slobozia Mare
+1621,Mayoralty of the city of Cahul
+1670,Mayoralty of Bardar
+1673,Mayoralty of Mihaileni
+1676,Mayoralty of Carbuna
+1683,Mayoralty of Cigirleni
+1702,Mayoralty of Slobozia-Sirauti
+1709,Mayoralty of Costesti
+1724,Mayoralty of Gangura
+1737,Mayoralty of Danceni
+1744,Mayoralty of Horesti
+1748,Mayoralty of Andrusul de Sus
+1752,Mayoralty of Malcoci
+1764,Mayoralty of Milestii Mici
+1769,Mayoralty of Badicul Moldovenesc
+1773,Mayoralty of Molesti
+1776,Mayoralty of Bucuria
+1778,Mayoralty of Nimoreni
+1792,Mayoralty of Puhoi
+1799,Mayoralty of Rusesti Noi
+1812,Mayoralty of Cislita-Prut
+1817,Mayoralty of Razeni
+1825,Mayoralty of Huliboaia
+1829,Mayoralty of Suruceni
+1838,Mayoralty of Tipala
+1845,Mayoralty of Iujnoe
+1859,Mayoralty of Vasieni
+1863,Mayoralty of Lopatica
+1867,Mayoralty of Zimbreni
+1882,Mayoralty of the city of Ialoveni
+1895,Mayoralty of Balabanesti
+1898,Mayoralty of Lucesti
+1916,Mayoralty of Bocsana
+1919,Mayoralty of Tartaul de Salcie
+1923,Mayoralty of Cimiseni
+1931,Mayoralty of Corjova(Criuleni)
+1939,Mayoralty of Cruglic
+1952,Mayoralty of Drasliceni
+1962,Mayoralty of Dubasarii Vechi
+1963,Mayoralty of Chietu
+1973,Mayoralty of Hirtopul Mare
+1976,Mayoralty of Chisla
+1980,Mayoralty of Miclesti
+1983,Mayoralty of Hrusova
+1995,Mayoralty of Isnovati
+1998,Mayoralty of Costangalia
+2002,Mayoralty of Izbiste
+2018,Mayoralty of Jevreni
+2026,Mayoralty of Mascauti
+2034,Mayoralty of Magdacesti
+2048,Mayoralty of Enichioi
+2053,Mayoralty of Onitcani
+2061,Mayoralty of Pascani
+2068,Mayoralty of Slobozia-Dusca
+2071,Mayoralty of Haraghis
+2076,Mayoralty of Zaicana
+2089,Mayoralty of the city of Criuleni
+2090,Mayoralty of Capriana
+2091,Mayoralty of Lingura
+2095,Mayoralty of Codreanca
+2099,Mayoralty of Cojusna
+2106,Mayoralty of Galesti
+2113,Mayoralty of Lozova
+2124,Mayoralty of Micauti
+2126,Mayoralty of Plopi
+2133,Mayoralty of Micleuseni
+2136,Mayoralty of Porumbesti
+2144,Mayoralty of Negresti
+2156,Mayoralty of Onesti
+2168,Mayoralty of Panasesti
+2177,Mayoralty of Radeni
+2197,Mayoralty of Recea
+2208,Mayoralty of Sadova
+2211,Mayoralty of Stoianovca
+2214,Mayoralty of Samalia
+2216,Mayoralty of Scoreni
+2223,Mayoralty of Sireti
+2234,Mayoralty of Voinova
+2247,Mayoralty of Vorniceni
+2249,Mayoralty of Toceni
+2258,Mayoralty of Zubresti
+2264,Mayoralty of the city of Bucovat
+2278,Mayoralty of the city of Straseni
+2294,Mayoralty of Cocieri
+2306,Mayoralty of Corjova
+2307,Mayoralty of Buda
+2308,Mayoralty of Cosnita
+2323,Mayoralty of Dorotcaia
+2329,Mayoralty of Frumoasa
+2332,Mayoralty of Holercani
+2342,Mayoralty of Oxentea
+2346,Mayoralty of Meleseni
+2349,Mayoralty of Molovata Noua
+2355,Mayoralty of Molovata
+2360,Mayoralty of Paulesti
+2363,Mayoralty of Pirita
+2368,Mayoralty of Cabaiesti
+2371,Mayoralty of Ustia
+2378,Mayoralty of Bulboaca
+2386,Mayoralty of Chetrosu
+2390,Mayoralty of Temeleuti
+2399,Mayoralty of Chirca
+2408,Mayoralty of Ciobanovca
+2418,Mayoralty of Cobusca Noua
+2423,Mayoralty of Peticeni
+2426,Mayoralty of Cobusca Veche
+2433,Mayoralty of Geamana
+2436,Mayoralty of Varzarestii Noi
+2440,Mayoralty of Gura Bicului
+2443,Mayoralty of Ciuflesti
+2446,Mayoralty of Delacau
+2452,Mayoralty of Floreni
+2455,Mayoralty of Gradinita
+2458,Mayoralty of Hirbovat
+2467,Mayoralty of Maximovca
+2478,Mayoralty of Roscani
+2483,Mayoralty of Tanatarii Noi
+2488,Mayoralty of Speia
+2499,Mayoralty of Serpeni
+2505,Mayoralty of Tintareni
+2512,Mayoralty of Albina
+2516,Mayoralty of Varnita
+2523,Mayoralty of the city of Anenii Noi
+2536,District Council Ialoveni
+2579,Mayoralty of Codreni
+2619,Mayoralty of Hijdieni
+2677,Mayoralty of Ivanovca Noua
+2683,Mayoralty of the city of Soroca
+2727,Mayoralty of Rublenita
+2736,Mayoralty of Porumbrei
+2737,Mayoralty of Ocolina
+2763,Mayoralty of Zastinca
+2769,Mayoralty of Vasilcau
+2789,Mayoralty of Septelici
+2814,Mayoralty of Cosauti
+2827,Mayoralty of Redi-Ceresnovat
+2843,Mayoralty of Cremenciug
+2864,Mayoralty of Racovat
+2872,Mayoralty of Varancau
+2889,Mayoralty of Bulboci
+2904,Mayoralty of Baxani
+2915,Mayoralty of Badiceni
+2933,Mayoralty of Stoicani
+2953,Mayoralty of Vadeni
+2964,Mayoralty of Cainarii Vechi
+2972,Mayoralty of Tirgul-Vertiujeni
+2982,Mayoralty of Vertiujeni
+2989,Mayoralty of Nimereuca
+3000,Mayoralty of Vascauti
+3011,Mayoralty of Suric
+3012,Mayoralty of Visoca
+3018,Mayoralty of Tatarauca Veche
+3035,Mayoralty of Criscauti
+3053,Mayoralty of Sanatauca
+3064,Mayoralty of Cuhurestii de Sus
+3075,Mayoralty of Cuhurestii de Jos
+3084,Mayoralty of Cunicea
+3092,Mayoralty of Japca
+3102,Mayoralty of the city of Floresti
+3117,Mayoralty of the city of Ghindesti
+3127,Mayoralty of the city of Marculesti
+3139,Mayoralty of Bahrinesti
+3145,Mayoralty of Casunca
+3154,Mayoralty of Ciutulesti
+3163,Mayoralty of Cosernita
+3173,Mayoralty of Frumusica
+3186,Mayoralty of Gura Camencii
+3202,Mayoralty of Lunga
+3208,Mayoralty of Prajila
+3218,Mayoralty of Prodanesti
+3228,Mayoralty of Putinesti
+3239,Mayoralty of Radulenii Vechi
+3253,Mayoralty of Rosietici
+3265,Mayoralty of Stefanesti
+3273,Mayoralty of Trifanesti
+3290,Mayoralty of Varvareuca
+3297,Mayoralty of Cotiujenii Mari
+3315,Mayoralty of Pohoarna
+3325,Mayoralty of the city of Drochia
+3347,Mayoralty of Chetrosu
+3357,Mayoralty of Cotova
+3369,Mayoralty of Ochiul Alb
+3376,Mayoralty of Popestii de Sus
+3388,Mayoralty of Suri
+3400,Mayoralty of Tarigrad
+3409,Mayoralty of Topala
+3410,Mayoralty of Zgurita
+3426,Mayoralty of Troitcoe
+3431,Mayoralty of Drochia
+3437,Mayoralty of Fintinita
+3452,Mayoralty of Gribova
+3463,Mayoralty of Valea Perjei
+3466,Mayoralty of Nicoreni
+3474,Mayoralty of Mindic
+3479,Mayoralty of Bobeica
+3486,Mayoralty of Boghiceni
+3497,Mayoralty of Bozieni
+3509,Mayoralty of Buteni
+3514,Mayoralty of Dancu
+3523,Mayoralty of Fundul Galbenei
+3529,Mayoralty of Caracui
+3535,Mayoralty of Crasnoarmeiscoe
+3545,Mayoralty of Lapusna
+3555,Mayoralty of Leuseni
+3563,Mayoralty of Loganesti
+3569,Mayoralty of Carpineni
+3581,Mayoralty of Cioara
+3591,Mayoralty of Cotul Morii
+3601,Mayoralty of Mereseni
+3611,Mayoralty of Mingir
+3617,Mayoralty of Negrea
+3623,Mayoralty of Nemteni
+3633,Mayoralty of Onesti
+3644,Mayoralty of Pascani
+3660,Mayoralty of Sarata-Galbena
+3670,Mayoralty of Sofia
+3680,Mayoralty of Voinescu
+3696,Mayoralty of the city of Hincesti
+3698,Mayoralty of Sadaclia
+3705,Mayoralty of Abaclia
+3711,Mayoralty of Bascalia
+3716,Mayoralty of Carabetovca
+3727,Mayoralty of Iserlia
+3737,Mayoralty of the city of Basarabeasca
+3748,Mayoralty of Satul Nou
+3761,Mayoralty of Gradiste
+3771,Mayoralty of Cenac
+3783,Mayoralty of Gura Galbenei
+3793,Mayoralty of Sagaidac
+3800,Mayoralty of Hirtop
+3811,Mayoralty of the city of Cimislia
+3825,Mayoralty of Ecaterinovca
+3837,Mayoralty of Batir
+3843,Mayoralty of Dragusenii Noi
+3850,Mayoralty of Ciuciuleni
+3858,Mayoralty of Siscani
+3866,Mayoralty of Bujor
+3876,Mayoralty of Ciucur-Mingir
+3882,Mayoralty of Ialpujeni
+3891,Mayoralty of Javgur
+3900,Mayoralty of Lipoveni
+3910,Mayoralty of Mihailovca
+3916,Mayoralty of Selemet
+3921,Mayoralty of Stolniceni
+3950,Mayoralty of the city of Leova
+3962,Mayoralty of Cosernita
+3967,Mayoralty of the city of Iargara
+3975,Mayoralty of Filipeni
+3982,Mayoralty of Tomai
+3992,Mayoralty of Covurlui
+4006,Mayoralty of Cazangic
+4023,Mayoralty of Sarata Noua
+4037,Mayoralty of Vozneseni
+4061,Mayoralty of Sarateni
+4073,Mayoralty of Tochile-Raducani
+4090,Mayoralty of Orac
+4105,Mayoralty of Bestemac
+4113,Mayoralty of Borogani
+4123,Mayoralty of Tigheci
+4124,District Council Ungheni
+4160,Mayoralty of the city of Ungheni
+4177,Mayoralty of Dolinnoe
+4182,Mayoralty of Boghenii Noi
+4189,Mayoralty of Bumbata
+4204,Mayoralty of Riscova
+4206,Mayoralty of Raculesti
+4219,Mayoralty of Briceni
+4221,Mayoralty of Climauti
+4223,Mayoralty of Cioropcani
+4232,Mayoralty of Donduseni
+4234,Mayoralty of Napadeni
+4240,Mayoralty of Costuleni
+4255,Mayoralty of Pivniceni
+4258,Mayoralty of Pocrovca
+4260,Mayoralty of Rediul Mare
+4262,Mayoralty of Hircesti
+4271,Mayoralty of Macaresti
+4280,Mayoralty of Teleseuca
+4283,Mayoralty of Manoilesti
+4292,Mayoralty of Elizavetovca
+4294,Mayoralty of Antoneuca
+4295,Mayoralty of Negurenii Vechi
+4302,Mayoralty of Petresti
+4318,Mayoralty of Baroncea
+4321,Mayoralty of Hasnasenii Noi
+4323,Mayoralty of Moara de Piatra
+4327,Mayoralty of Pirlita
+4336,Mayoralty of Miciurin
+4339,Mayoralty of Radenii Vechi
+4346,Mayoralty of Palanca
+4355,Mayoralty of Pervomaiscoe
+4358,Mayoralty of Sculeni
+4364,Mayoralty of Petreni
+4368,Mayoralty of Todiresti
+4373,Mayoralty of Untesti
+4395,Mayoralty of Valea Mare
+4405,Mayoralty of Zagarancea
+4415,Mayoralty of the city of Cornesti
+4447,Mayoralty of Popestii de Jos
+4448,Mayoralty of the city of Calarasi
+4456,Mayoralty of Bahmut
+4469,Mayoralty of Valcinet
+4483,Mayoralty of Hirjauca
+4489,Mayoralty of Hirova
+4496,Mayoralty of Horodiste
+4502,Mayoralty of Hoginesti
+4512,Mayoralty of Dereneu
+4527,Mayoralty of Pirjolteni
+4536,Mayoralty of Niscani
+4548,Mayoralty of Pitusca
+4561,Mayoralty of Raciula
+4572,Mayoralty of Oniscani
+4578,Mayoralty of Radeni
+4594,Mayoralty of Tibirica
+4610,Mayoralty of Tuzara
+4613,Mayoralty of Salvirii Vechi
+4619,Mayoralty of the city of Nisporeni
+4642,Mayoralty of Balauresti
+4648,Mayoralty of Bolduresti
+4657,Mayoralty of Balanesti
+4668,Mayoralty of Alexeevca
+4670,Mayoralty of Bratuleni
+4682,Mayoralty of Varzaresti
+4695,Mayoralty of Grozesti
+4707,Mayoralty of Milesti
+4713,Mayoralty of Marinici
+4725,Mayoralty of Seliste
+4734,Mayoralty of Cristesti
+4745,Mayoralty of Ciutesti
+4754,Mayoralty of Cioresti
+4764,Mayoralty of Iurceni
+4774,Mayoralty of Valea-Trestieni
+4784,Mayoralty of Zberoaia
+4808,Mayoralty of Badragii Vechi
+4821,Mayoralty of Badragii Noi
+4862,Mayoralty of Cepeleuti
+4864,Mayoralty of Chetrosica Noua
+4868,Mayoralty of Goleni
+4871,Mayoralty of Hancauti
+4873,Mayoralty of Lopatnic
+4875,Mayoralty of Rotunda
+4879,Mayoralty of Constantinovca
+4881,Mayoralty of Catranic
+4883,Mayoralty of Logofteni
+4885,Mayoralty of Musteata
+4887,Mayoralty of Pietrosu
+4889,Mayoralty of Pompa
+4891,Mayoralty of Taxobeni
+4893,Mayoralty of Chetris
+4895,Mayoralty of Hincesti
+4897,Mayoralty of Alexeevca
+4899,Mayoralty of Cernita
+4901,Mayoralty of Ciripcau
+4903,Mayoralty of Domulgeni
+4914,Mayoralty of Ghindesti
+4930,Mayoralty of municipality of Chisinau
+4943,Mayoralty of Gura Cainarului
+5018,Mayoralty of Izvoare
+5020,Mayoralty of Marculesti
+5092,Mayoralty of Sauca
+5093,Mayoralty of Napadova
+5102,Mayoralty of Stolniceni
+5191,Mayoralty of Grigorievca
+5194,Mayoralty of Nicolaevca
+5242,Mayoralty of the city of Vadul lui Voda
+5248,Mayoralty of the city of Vatra
+5253,Mayoralty of the city of Durlesti
+5264,Mayoralty of Gratiesti
+5275,Mayoralty of the city of Cricova
+5284,Mayoralty of the city of Singera
+5296,Mayoralty of Sevirova
+5298,Mayoralty of Tohatin
+5303,Mayoralty of Temeleuti
+5305,Mayoralty of Bubuieci
+5312,Mayoralty of Ciorescu
+5322,Mayoralty of the city of Codru
+5328,Mayoralty of Ghidighici
+5335,Mayoralty of Cruzesti
+5340,Mayoralty of Zaluceni
+5342,Mayoralty of Colonita
+5348,Mayoralty of Truseni
+5358,Mayoralty of Budesti
+5365,Mayoralty of Stauceni
+5371,Mayoralty of Fundurii Noi
+5373,Mayoralty of Viisoara
+5377,Mayoralty of Bacioi
+5392,District Council Edinet
+5402,Mayoralty of Arionesti
+5412,Mayoralty of Baraboi
+5417,Mayoralty of Mosana
+5432,Mayoralty of Cernoleuca
+5441,Mayoralty of Corbu
+5457,Mayoralty of the city of Donduseni
+5470,Mayoralty of Plop
+5481,Mayoralty of Horodiste
+5487,Mayoralty of Maramonovca
+5493,Mayoralty of Scaieni
+5498,Mayoralty of Sudarca
+5505,Mayoralty of Balceana
+5509,Mayoralty of Tirnova
+5517,Mayoralty of Taul
+5523,Mayoralty of Frasin
+5531,Mayoralty of Calmatui
+5547,Mayoralty of the city of Edinet
+5563,Mayoralty of the city of Cupcini
+5568,Mayoralty of Blesteni
+5580,Mayoralty of Bratuseni
+5589,Mayoralty of Brinzeni
+5600,Mayoralty of Corpaci
+5606,Mayoralty of Cuconestii Noi
+5614,Mayoralty of Gaspar
+5621,Mayoralty of Gordinesti
+5639,Mayoralty of Hincauti
+5642,Mayoralty of Cateleni
+5646,Mayoralty of Hlinaia
+5655,Mayoralty of Parcova
+5664,Mayoralty of Ruseni
+5677,Mayoralty of Sofrincani
+5686,Mayoralty of Terebna
+5692,Mayoralty of Tirnova
+5696,Mayoralty of Firladeni
+5698,Mayoralty of Trinca
+5708,Mayoralty of Viisoara
+5717,Mayoralty of Zabriceni
+5733,Mayoralty of Fetesti
+5745,Mayoralty of Zaicani
+5756,Mayoralty of Ivanovca
+5759,Mayoralty of Varatic
+5775,Mayoralty of Miresti
+5777,Mayoralty of Obileni
+5779,Mayoralty of Pociumbeni
+5780,Mayoralty of Burlanesti
+5787,Mayoralty of Pervomaiscoe
+5801,Mayoralty of Balasinesti
+5802,Mayoralty of Berliniti
+5812,Mayoralty of Grimancauti
+5819,Mayoralty of Drepcauti
+5825,Mayoralty of Coteala
+5837,Mayoralty of Cotiujeni
+5843,Mayoralty of Criva
+5850,Mayoralty of Colicauti
+5856,Mayoralty of Poganesti
+5864,Mayoralty of Corjeuti
+5870,Mayoralty of Larga
+5881,Mayoralty of Medveja
+5888,Mayoralty of Marcauti
+5898,Mayoralty of Pererita
+5904,Mayoralty of Caracusenii Vechi
+5910,Mayoralty of Tabani
+5917,Mayoralty of Trebisauti
+5929,Mayoralty of the city of Briceni
+5940,Mayoralty of the city of Lipcani
+5949,Mayoralty of Halahora de Sus
+5963,Mayoralty of Tetcani
+5977,Mayoralty of Sirauti
+5989,Mayoralty of the city of Otaci
+5999,Mayoralty of the city of Ocnita
+6011,Mayoralty of the city of Frunza
+6020,Mayoralty of Birladeni
+6031,Mayoralty of Birnova
+6037,Mayoralty of Valcinet
+6048,Mayoralty of Grinauti-Moldova
+6058,Mayoralty of Dingeni
+6067,Mayoralty of Calarasovca
+6081,Mayoralty of Clocusna
+6086,Mayoralty of Lencauti
+6099,Mayoralty of Lipnic
+6107,Mayoralty of s.Ocnita
+6116,Mayoralty of Hadarauti
+6171,Mayoralty of Secareni
+6173,Mayoralty of Sipoteni
+6188,Mayoralty of Hansca
+6190,Mayoralty of Horodca
+6197,Mayoralty of Pojareni
+6199,Mayoralty of Sociteni
+6202,Mayoralty of Varatic
+6205,Mayoralty of Baius
+6207,Mayoralty of Ceadir
+6209,Mayoralty of Cneazevca
+6211,Mayoralty of Colibabovca
+6213,Mayoralty of Cupcui
+6215,Mayoralty of Hanasenii Noi
+6217,Mayoralty of Romanovca
+6219,Mayoralty of Sarata-Razesi
+6222,Mayoralty of Saratica Noua
+6223,District Council Orhei
+6239,Mayoralty of Sirma
+6241,Mayoralty of Tomaiul Nou
+6244,Mayoralty of Barboieni
+6246,Mayoralty of Boltun
+6248,Mayoralty of Bursuc
+6250,Mayoralty of Calimanesti
+6252,Mayoralty of Soltanesti
+6254,Mayoralty of Vinatori
+6256,Mayoralty of Corestauti
+6258,Mayoralty of Girbova
+6261,Mayoralty of Mereseuca
+6263,Mayoralty of Mihalaseni
+6265,Mayoralty of Naslavcea
+6267,Mayoralty of Unguri
+6270,Mayoralty of Bolohan
+6272,Mayoralty of Clisova
+6274,Mayoralty of Crihana
+6285,Mayoralty of Malaiesti
+6287,Mayoralty of Berezlogi
+6288,Mayoralty of Biesti
+6290,Mayoralty of Neculaieuca
+6295,Mayoralty of Samananca
+6298,Mayoralty of Braviceni
+6310,Mayoralty of Viscauti
+6311,Mayoralty of Bulaiesti
+6322,Mayoralty of Zahoreni
+6323,Mayoralty of Ciocilteni
+6336,Mayoralty of Zorile
+6337,Mayoralty of Chiperceni
+6346,Mayoralty of Pohorniceni
+6348,Mayoralty of Mirzesti
+6350,Mayoralty of Busauca
+6352,Mayoralty of Cogilniceni
+6354,Mayoralty of Gordinesti
+6372,Mayoralty of Cucuruzeni
+6399,Mayoralty of Donici
+6410,Mayoralty of Ghetlova
+6423,Mayoralty of Isacova
+6434,Mayoralty of Ivancea
+6449,Mayoralty of Jora de Mijloc
+6463,Mayoralty of Mitoc
+6471,Mayoralty of Morozeni
+6479,Mayoralty of Pelivan
+6489,Mayoralty of Peresecina
+6499,Mayoralty of Mereni
+6508,Mayoralty of Puhaceni
+6511,Mayoralty of Lalova
+6515,Mayoralty of Lipceni
+6535,Mayoralty of Piatra
+6542,Mayoralty of Podgoreni
+6550,Mayoralty of Pohrebeni
+6557,Mayoralty of Putintei
+6569,Mayoralty of Seliste
+6586,Mayoralty of Step-Soci
+6593,Mayoralty of Susleni
+6606,Mayoralty of Teleseu
+6616,Mayoralty of Trebujeni
+6627,Mayoralty of Vatici
+6639,Mayoralty of the city of Orhei
+6683,Mayoralty of Bravicea
+6696,Mayoralty of Ciniseuti
+6705,Mayoralty of Cuizauca
+6719,Mayoralty of Echimauti
+6725,Mayoralty of Ghiduleni
+6737,Mayoralty of Horodiste
+6761,Mayoralty of Ignatei
+6773,Mayoralty of Mateuti
+6778,Mayoralty of Papauti
+6788,Mayoralty of Peciste
+6795,Mayoralty of Sircova
+6805,Mayoralty of Trifesti
+6820,Mayoralty of Tareuca
+6830,Dolai Ceadir-Lunga
+6832,Mayoralty of the city of Rezina
+6871,Mayoralty of the city of Soldanesti
+6888,Mayoralty of Alcedar
+6902,Mayoralty of Vadul-Rascov
+6910,Mayoralty of Chipesca
+6926,Mayoralty of Cobilea
+6934,Mayoralty of Cusmirca
+6945,Mayoralty of Mihuleni
+6957,Mayoralty of Oliscani
+6963,Mayoralty of Raspopeni
+6972,Mayoralty of Samascani
+6981,Mayoralty of the city of Telenesti
+6993,Mayoralty of Banesti
+6998,Mayoralty of Budai
+7024,Mayoralty of Verejeni
+7032,Mayoralty of Inesti
+7040,Mayoralty of Cazanesti
+7053,Mayoralty of Chitcanii Vechi
+7064,Mayoralty of Chistelnita
+7075,Mayoralty of Leuseni
+7087,Mayoralty of Mindresti
+7105,Mayoralty of Negureni
+7114,Mayoralty of Brinzenii Noi
+7126,Mayoralty of Ordasei
+7141,Mayoralty of Ratus
+7151,Mayoralty of Scorteni
+7159,Mayoralty of Saratenii Vechi
+7165,Mayoralty of Suhuluceni
+7182,Mayoralty of Tirsitei
+7191,Mayoralty of Meseni
+7192,Mayoralty of Tintareni
+7218,District Council Causeni
+7232,Mayoralty of the city of Causeni
+7247,Mayoralty of Baccealia
+7254,Mayoralty of Baimaclia
+7259,Mayoralty of Mincenii de Jos
+7265,Mayoralty of Ermoclia
+7271,Mayoralty of Festelita
+7277,Mayoralty of Popeasca
+7284,Mayoralty of Taraclia
+7291,Mayoralty of Zaim
+7301,Mayoralty of Chircaiesti
+7307,Mayoralty of Cirnateni
+7312,Mayoralty of Opaci
+7317,Mayoralty of Saiti
+7322,Mayoralty of Salcuta
+7328,Mayoralty of Tanatari
+7342,Mayoralty of Tocuz
+7348,Mayoralty of Ucrainca
+7354,Mayoralty of Ursoaia
+7360,Mayoralty of Firladeni
+7366,Mayoralty of Hagimus
+7371,Mayoralty of Plop-Stiubei
+7386,Mayoralty of Copanca
+7399,Mayoralty of the city of Cainari
+7404,Mayoralty of Coscalia
+7414,Mayoralty of Pervomaisc
+7442,Mayoralty of Cirnatenii Noi
+7451,Mayoralty of Chircaiestii Noi
+7475,Mayoralty of Antonesti
+7481,Mayoralty of Carahasani
+7487,Mayoralty of Caplani
+7493,Mayoralty of Cioburciu
+7505,Mayoralty of Copceac
+7512,Mayoralty of Crocmaz
+7520,Mayoralty of Olanesti
+7535,Mayoralty of Palanca
+7541,Mayoralty of Purcari
+7554,Mayoralty of Rascaieti
+7565,Mayoralty of Semionovca
+7582,Mayoralty of Slobozia
+7589,Mayoralty of Talmaza
+7600,Mayoralty of Tudora
+7607,Mayoralty of Volintiri
+7614,Mayoralty of the city of Stefan Voda
+7649,Mayoralty of Aluatu
+7666,Mayoralty of Hiriseni
+7670,Mayoralty of Albota de Jos
+7690,Mayoralty of Albota de Sus
+7702,Mayoralty of Budai
+7721,Mayoralty of Vinogradovca
+7729,Mayoralty of Valea Perjei
+7736,Mayoralty of Cairaclia
+7742,Mayoralty of Corten
+7750,Mayoralty of Tvardita
+7765,Mayoralty of the city of Taraclia
+7768,Mayoralty of Otac
+7793,District Council Taraclia
+7801,District Council Soroca
+7814,Mayoralty of Pripiceni-Razesi
+7835,Mayoralty of Saseni
+7837,Mayoralty of Saharna Noua
+7962,Mayoralty of Solonceni
+8074,Mayoralty of Pereni
+8159,Mayoralty of Risipeni
+8161,Mayoralty of Climautii de Jos
+8162,Mayoralty of Cetireni
+8163,Mayoralty of Sipoteni
+8164,Executive committee of ATU Gagauzia
+8180,Mayoralty of Alexandresti
+8191,Mayoralty of Avdarma
+8199,Mayoralty of Chioselia Rusa
+8206,Mayoralty of Besalma
+8214,Mayoralty of Bugeac
+8222,Mayoralty of Dezghingea
+8230,Mayoralty of Chirsova
+8240,Mayoralty of Cioc-Maidan
+8251,Mayoralty of Congazcicul de Sus
+8258,Mayoralty of Cotovscoe
+8265,Mayoralty of Svetlii
+8274,Mayoralty of Ferapontievca
+8281,Mayoralty of Congaz
+8295,Mayoralty of municipality of Comrat
+8316,Mayoralty of the city of Ceadir-Lunga
+8337,Mayoralty of Baurci
+8344,Mayoralty of Alunis
+8347,Mayoralty of Besghioz
+8354,Mayoralty of Gaidar
+8360,Mayoralty of Joltai
+8367,Mayoralty of Cazaclia
+8377,Mayoralty of Chiriet-Lunga
+8384,Mayoralty of Tomai
+8390,Mayoralty of Duruitoarea Noua
+8396,Mayoralty of Copceac
+8405,Dolai Vulcanesti
+8417,Mayoralty of the city of Vulcanesti
+8438,Mayoralty of Etulia
+8445,Mayoralty of Cismichioi
+8458,Mayoralty of Galaseni
+8463,Mayoralty of Carbalia
+8494,District Council Hincesti
+8670,Mayoralty of Grinauti
+8766,Mayoralty of Baltata
+8767,Mayoralty of Ulmu
+8776,Mayoralty of Chirileni
+8783,Mayoralty of Cornesti
+8813,Mayoralty of Horodiste
+8815,Mayoralty of Pociumbauti
+8817,Mayoralty of Malinovscoe
+8819,Mayoralty of Petruseni
+8830,Mayoralty of Singureni
+8832,Mayoralty of Sumna
+8834,Mayoralty of Beleavinet
+8890,Mayoralty of Balasesti
+9050,Mayoralty of Borciag
+9056,Mayoralty of Bursuceni
+9058,Mayoralty of Ciuciuieni
+9060,Mayoralty of Cotiujenii Mici
+9062,Mayoralty of Grigorauca
+9064,Mayoralty of Izvoare
+9066,Mayoralty of Taura Veche
+9068,Mayoralty of Tambula
+9070,Mayoralty of Darcauti
+9072,Mayoralty of Dubna
+9074,Mayoralty of Holosnita
+9076,Mayoralty of Hristici
+9454,Mayoralty of Iarova
+9545,Dolai Comrat
+9568,Mayoralty of Oclanda
+9585,Mayoralty of Parcani
+9637,Mayoralty of Pirlita
+9701,Mayoralty of Regina Maria
+9709,Mayoralty of Rudi
+9711,Mayoralty of Schineni
+9720,Mayoralty of Solcani
+9722,Mayoralty of Trifauti
+9724,Mayoralty of Volovita
+9726,Mayoralty of Egoreni
+9728,Mayoralty of Chirianca
+9730,Mayoralty of Dolna
+9732,Mayoralty of Ghelauza
+9734,Mayoralty of Greblesti
+9736,Mayoralty of Romanesti
+9738,Mayoralty of Roscani
+9740,Mayoralty of Tataresti
+9742,Mayoralty of Tiganesti
+9744,Mayoralty of Dobrusa
+9746,Mayoralty of Fuzauca
+9748,Mayoralty of Gauzeni
+9750,Mayoralty of Parcani
+9753,Mayoralty of Rogojeni
+9755,Mayoralty of Poiana
+9757,Mayoralty of Salcia
+9759,Mayoralty of Sestaci
+9761,Mayoralty of Sipca
+9763,Mayoralty of Hligeni
+9765,Mayoralty of Alava
+9767,Mayoralty of Brezoaia
+9769,Mayoralty of Marianca de Jos
+9771,Mayoralty of Stefanesti
+9773,Mayoralty of Balabanu
+9775,Mayoralty of Cealic
+9777,Mayoralty of Musaitu
+9779,Mayoralty of Novosiolovca
+9781,Mayoralty of Salcia
+9783,Mayoralty of Bogzesti
+9785,Mayoralty of Chisla
+9787,Mayoralty of Codrul Nou
+9789,Mayoralty of Coropceni
+9791,Mayoralty of Nucareni
+9793,Mayoralty of Pistruieni
+9795,Mayoralty of Vasieni
+9797,Mayoralty of Crasnaseni
+9799,Mayoralty of Ciulucani
+9801,Mayoralty of Agronomovca
+9803,Mayoralty of Alexeevca
+9805,Mayoralty of Buciumeni
+9807,Mayoralty of Busila
+9809,Mayoralty of Condratesti
+9811,Mayoralty of Floritoaia Veche
+9813,Mayoralty of Magurele
+9815,Mayoralty of Morenii Noi
+9817,Mayoralty of Cornova
+9819,Mayoralty of Sinesti
+9821,Mayoralty of Tescureni
+9823,Mayoralty of Iordanovca
+9825,District Council Falesti
+9827,District Council Glodeni
+9829,District Council Riscani
+9831,District Council Singerei
+9833,District Council Cantemir
+9835,District Council Criuleni
+9837,District Council Straseni
+9839,District Council Anenii Noi
+9841,District Council Donduseni
+9843,District Council Briceni
+9845,District Council Ocnita
+9847,District Council Cimislia
+9849,District Council Leova
+9851,District Council Basarabeasca
+9853,District Council Rezina
+9855,District Council Soldanesti
+9857,District Council Telenesti
+9859,District Council Drochia
+9861,District Council Floresti
+9863,District Council Stefan Voda
+9865,District Council Calarasi
+9867,District Council Nisporeni
+9873,Mayoralty of Marcauti
+0000,NO VALUE
