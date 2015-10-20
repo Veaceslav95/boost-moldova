@@ -393,130 +393,145 @@
         "factor": 1
       }
     },
-    "date": {
-      "dimensionType": "datetime",
-      "fields": {
-        "year": {
-          "source": "year"
+    "dimensions": [
+      {
+        "name": "date",
+        "dimensionType": "datetime",
+        "fields": {
+          "year": {
+            "source": "year"
+          }
         }
+      },
+      {
+        "name": "functional-classification" ,
+        "dimensionType": "classification",
+        "classificationType": "functional",
+        "fields": [
+          {
+            "name": "func1-id",
+            "source": "func1",
+            "resource": "boost-moldova",
+            "level": 1
+          },
+          {
+            "name": "func1-title",
+            "source": "label",
+            "level": 1,
+            "resource": "func1"
+          },
+          {
+            "name": "func2-id",
+            "source": "func2",
+            "resource": "boost-moldova",
+            "level": 2
+          },
+          {
+            "name": "func2-title",
+            "source": "label",
+            "level": 2,
+            "resource": "func2"
+          }
+        ]
+      },
+      {
+        "name": "chartOfAccounts-classification" ,
+        "dimensionType": "classification",
+        "classificationType": "chartOfAccounts",
+        "fields": [
+          {
+            "name": "econ1-id",
+            "source": "econ1",
+            "resource": "boost-moldova",
+            "level": 1
+          },
+          {
+            "name": "econ1-title",
+            "source": "label",
+            "level": 1,
+            "resource": "econ1"
+          },
+          {
+            "name": "econ2-id",
+            "source": "econ2",
+            "resource": "boost-moldova",
+            "level": 2
+          },
+          {
+            "name": "econ2-title",
+            "source": "label",
+            "level": 2,
+            "resource": "econ2"
+          }
+        ]
+      },
+      {
+        "name": "administrative-classification" ,
+        "dimensionType": "classification",
+        "classificationType": "administrative",
+        "fields": [
+          {
+            "name": "admin2-id",
+            "source": "admin2",
+            "resource": "boost-moldova",
+            "level": 2
+          },
+          {
+            "name": "admin2-title",
+            "source": "label",
+            "level": 2,
+            "resource": "admin2"
+          },
+          {
+            "name": "admin3-id",
+            "source": "admin3",
+            "resource": "boost-moldova",
+            "level": 3
+          },
+          {
+            "name": "admin3-title",
+            "source": "label",
+            "level": 3,
+            "resource": "admin3"
+          },
+          {
+            "name": "admin4-id",
+            "source": "admin4",
+            "resource": "boost-moldova",
+            "level": 4
+          },
+          {
+            "name": "admin4-title",
+            "source": "label",
+            "level": 4,
+            "resource": "admin4"
+          },
+          {
+            "name": "admin5-id",
+            "source": "admin5",
+            "resource": "boost-moldova",
+            "level": 5
+          },
+          {
+            "name": "admin5-title",
+            "source": "label",
+            "level": 5,
+            "resource": "admin5"
+          },
+          {
+            "name": "admin6-id",
+            "source": "admin6",
+            "resource": "boost-moldova",
+            "level": 6
+          },
+          {
+            "name": "admin6-title",
+            "source": "label",
+            "level": 6,
+            "resource": "admin6"
+          }
+        ]
       }
-    },
-    "func1": {
-      "dimensionType": "classification",
-      "fields": {
-        "id": {
-          "source": "func1"
-        },
-        "title": {
-          "source": "label",
-          "resource": "func1"
-        }
-      },
-      "primaryKey": "func1"
-    },
-    "func2": {
-      "dimensionType": "classification",
-      "fields": {
-        "id": {
-          "source": "func2"
-        },
-        "title": {
-          "source": "label",
-          "resource": "func2"
-        }
-      },
-      "primaryKey": "func2"
-    },
-    "econ1": {
-      "dimensionType": "classification",
-      "fields": {
-        "id": {
-          "source": "econ1"
-        },
-        "title": {
-          "source": "label",
-          "resource": "econ1"
-        }
-      },
-      "primaryKey": "econ1"
-    },
-    "econ2": {
-      "dimensionType": "classification",
-      "fields": {
-        "id": {
-          "source": "econ2"
-        },
-        "title": {
-          "source": "label",
-          "resource": "econ2"
-        }
-      },
-      "primaryKey": "econ2"
-    },
-    "admin2": {
-      "dimensionType": "classification",
-      "fields": {
-        "id": {
-          "source": "admin2"
-        },
-        "title": {
-          "source": "label",
-          "resource": "admin2"
-        }
-      },
-      "primaryKey": "admin2"
-    },
-    "admin3": {
-      "dimensionType": "classification",
-      "fields": {
-        "id": {
-          "source": "admin3"
-        },
-        "title": {
-          "source": "label",
-          "resource": "admin3"
-        }
-      },
-      "primaryKey": "admin3"
-    },
-    "admin4": {
-      "dimensionType": "classification",
-      "fields": {
-        "id": {
-          "source": "admin4"
-        },
-        "title": {
-          "source": "label",
-          "resource": "admin4"
-        }
-      },
-      "primaryKey": "admin4"
-    },
-    "admin5": {
-      "dimensionType": "classification",
-      "fields": {
-        "id": {
-          "source": "admin5"
-        },
-        "title": {
-          "source": "label",
-          "resource": "admin5"
-        }
-      },
-      "primaryKey": "admin5"
-    },
-    "admin6": {
-      "dimensionType": "classification",
-      "fields": {
-        "id": {
-          "source": "admin6"
-        },
-        "title": {
-          "source": "label",
-          "resource": "admin6"
-        }
-      },
-      "primaryKey": "admin6"
-    }
+    ]
   }
 }
