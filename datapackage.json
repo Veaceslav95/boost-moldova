@@ -376,31 +376,34 @@
     }
   ],
   "mapping": {
-    "measures": {
-      "approved": {
+    "measures": [
+      {
+        "name": "approved",
         "source": "approved",
         "currency": "MDL",
         "factor": 1
       },
-      "adjusted": {
+      {
+        "name": "adjusted",
         "source": "adjusted",
         "currency": "MDL",
         "factor": 1
       },
-      "executed": {
+      {
+        "name": "executed",
         "source": "executed",
         "currency": "MDL",
         "factor": 1
       }
-    },
+    ],
     "dimensions": [
       {
         "name": "date",
         "dimensionType": "datetime",
         "fields": {
-          "year": {
-            "source": "year"
-          }
+          "name": "year",
+          "source": "year",
+          "resource": "boost-moldova"
         }
       },
       {
