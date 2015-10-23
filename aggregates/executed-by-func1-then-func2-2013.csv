@@ -1,0 +1,108 @@
+func1,func2,amount
+"11 Agriculture, forestry, fishery and water service",11.10 Administrative authorities,33862978.439999975
+"11 Agriculture, forestry, fishery and water service",11.01 Agriculture,719549322.2400013
+"11 Agriculture, forestry, fishery and water service","11.05 Agriculture, forestry, fishery and water services and activities unattributable to any other group",607700467.87
+"11 Agriculture, forestry, fishery and water service",11.02 Forestry,11984108.32
+"11 Agriculture, forestry, fishery and water service",11.04 Water service,13200980.0
+"08 Culture, arts, sports and youth activities",08.10 Administrative authorities,30512745.39000001
+"08 Culture, arts, sports and youth activities",08.02 Cultural events,548020089.8500005
+"08 Culture, arts, sports and youth activities","08.06 Culture, arts and sports activities and facilities unattributable to any other group",53399293.01999998
+"08 Culture, arts, sports and youth activities",08.04 Periodicals and written media,8933546.57
+"08 Culture, arts, sports and youth activities",08.05 Sports,255838423.55999973
+"08 Culture, arts, sports and youth activities",08.03 TV and radio broadcasting,98013027.64999999
+"08 Culture, arts, sports and youth activities",08.07 Youth activities,25433640.529999994
+06 Education,06.10 Administrative authorities,50592376.999999985
+06 Education,06.07 Education activities and facilities unattributable to any other group,458310415.7600007
+06 Education,06.04 Higher education,642353628.5799999
+06 Education,06.05 Postgraduate education,64134772.85
+06 Education,06.01 Preschool education,1680545672.190014
+06 Education,06.02 Primary education,106611823.98
+06 Education,06.03 Secondary education,3632688935.3300705
+06 Education,06.08 Secondary vocational education,411913474.91999966
+06 Education,06.06 Staff training and retraining courses,16887444.03
+05 Enforcement of public order and national security,05.02 Carabineer troops,74145099.94
+05 Enforcement of public order and national security,05.06 Civil protection and emergency situations,167914058.55000007
+05 Enforcement of public order and national security,05.01 Internal affairs authorities,813521582.1899996
+05 Enforcement of public order and national security,05.04 National security authorities,408873314.9500001
+05 Enforcement of public order and national security,05.03 Penitentiaries,331052631.6
+05 Enforcement of public order and national security,05.09 Public order enforcement and national security services and authorities unattributable to any other group,58378691.12000003
+12 Environment protection and hydrometeorology,12.10 Administrative authorities,8997644.71
+12 Environment protection and hydrometeorology,12.01 Environment Protection,316192675.6699998
+12 Environment protection and hydrometeorology,12.05 Environment protection and hydrometeorology activities unattributable to any other group,48278484.38
+12 Environment protection and hydrometeorology,12.03 Hydrometeorology,17264281.43
+02 Foreign relations,02.10 Administrative authorities,24583244.750000004
+02 Foreign relations,02.04 Diplomatic missions,198964951.36000004
+02 Foreign relations,02.01 International cooperation,49311999.5
+16 Fuel and energy,16.04 Fuel and power services and activities unattributable to any other group,213760801.80000004
+16 Fuel and energy,16.01 Natural gas installations/networks,38457888.83999999
+16 Fuel and energy,16.02 Power installations/networks,387482.79
+01 General purpose state services,01.10 Administrative authorities,148073616.06999993
+01 General purpose state services,01.02 Executive authorities,810500868.8799998
+01 General purpose state services,"01.03 Financial, budget/taxation and control services",735447126.2599975
+01 General purpose state services,01.08 General purpose authorities and services not attributable to any other group,121898090.96999994
+01 General purpose state services,01.01 Legislative authorities,214139949.81
+01 General purpose state services,01.04 Planning and statistics services,53873062.36999995
+09 Healthcare,09.10 Administrative authorities,12735288.170000006
+09 Healthcare,09.05 Health care services and facilities unattributable to any other group,542733238.0000002
+09 Healthcare,09.01 Hospitals,966729.56
+09 Healthcare,09.07 Mandatory health insurance linked services,4226100000.0
+09 Healthcare,09.06 National health programs,132500178.15000002
+09 Healthcare,09.02 Outpatient clinics and primary health care centers,4846071.2
+09 Healthcare,09.03 Preventive medicine and prevention services and facilities,308208939.66
+13 Industry and construction,13.10 Administrative authorities,30978060.38000001
+13 Industry and construction,13.05 Industry and construction services and activities unattributable to any other group,24043164.249999996
+13 Industry and construction,13.01 Mining industry,2999999.0
+04 Justice,04.10 Administrative authorities,40053260.36
+04 Justice,04.04 Attorney General's office,124564584.05999996
+04 Justice,04.01 Constitutional jurisdiction authorities,9059321.21
+04 Justice,04.03 Courts,235127953.5599998
+04 Justice,04.06 Justice authorities unattributable to any other group,149977723.47
+04 Justice,04.08 Probation,24265781.500000004
+03 National defense,03.01 National army,336178043.8299997
+23 Net lending,23.01 Lending to another-tier budgets,690000000.0
+23 Net lending,23.00 Net lending,4200000.0
+23 Net lending,23.02 Repayment of loans by another-tier budgets,-690000000.0
+23 Net lending,23.14 Repayment of loans by another-tier budgets refinanced from external sources,-12122847.82
+23 Net lending,23.06 Repayment of loans by financial facilities,-12730893.0
+23 Net lending,23.04 Repayment of loans by non-financial facilities,-42634939.17
+23 Net lending,23.08 Repayment of loans by other facilities and organizations,-2091816.8599999999
+23 Net lending,23.11 Restoring the decommissioned means to service the state bonds issued on external loans,-37006662.25
+23 Net lending,"23.20 Returning to the budget of means unused during previous years, means not used as per intended purpose and/or over-expenditure",-17558983.969999973
+19 Other economy-related services,19.10 Administrative authorities,14382597.599999994
+19 Other economy-related services,19.03 Other economy-related services,233804463.06999984
+19 Other economy-related services,19.01 Small business State support,3291230.66
+07 Research and innovations,07.10 Administrative authorities,14029313.129999997
+07 Research and innovations,07.02 Applied research,197151629.17999998
+07 Research and innovations,07.01 Fundamental research,82939292.49999997
+07 Research and innovations,07.04 Research and innovation activities and facilities unattributable to any other group,42176270.789999984
+07 Research and innovations,07.03 Training for research staff,2654089.0
+18 Restoring the state reserves,18.10 Administrative authorities,4163277.61
+18 Restoring the state reserves,18.04 Other state reserves servicing actions,8284343.360000001
+18 Restoring the state reserves,18.02 State material reserves,18605463.599999998
+20 Services and activities unattributable to any other core groups,20.09 Costs unattributable to any other group,479423987.9899998
+20 Services and activities unattributable to any other core groups,20.02 Government's reserve funds,53294365.199999996
+20 Services and activities unattributable to any other core groups,20.03 Local public administration authorities' reserve funds,39371165.94999999
+10 Social care and social insurance,10.24 Additional financial support for beneficiaries of pensions and social benefits,756641.17
+10 Social care and social insurance,10.10 Administrative authorities,37214061.249999985
+10 Social care and social insurance,10.22 Compensation for the gap in the power tariffs paid by households,20519530.38
+10 Social care and social insurance,10.05 Compensations for the transportation companies' loss owing to the indemnities granted to certain groups of people,554571.0
+10 Social care and social insurance,10.13 Nominative compensations and indemnities,30395740.639999997
+10 Social care and social insurance,10.01 Pensions for the military,798089070.8
+10 Social care and social insurance,10.06 Phased indexing of citizens' deposits at the Banca de Economii,52838396.0
+10 Social care and social insurance,10.20 Population social support funds,113225963.94999999
+10 Social care and social insurance,10.21 Social benefits and pensions paid through the state social insurance budget,10731100000.0
+10 Social care and social insurance,10.11 Social care and social insurance services and facilities unattributable to any other group,418733050.4
+10 Social care and social insurance,10.03 Social care facilities,504318756.09999967
+10 Social care and social insurance,10.18 Subsidies for the interest and repayment of preferential bank loans granted to population and housing construction cooperative organizations,3750273.3
+17 State debt servicing,17.03 External state debt servicing,186208848.0
+17 State debt servicing,17.01 Internal state debt servicing,306414854.08000004
+"14 Transports, roads, communications and IT",14.10 Administrative authorities,11489360.309999999
+"14 Transports, roads, communications and IT",14.01 Motor vehicle transportation,227826421.0
+"14 Transports, roads, communications and IT",14.02 Naval transportation,7404238.430000001
+"14 Transports, roads, communications and IT",14.07 Roads service,2429663802.5300035
+"14 Transports, roads, communications and IT","14.09 Transports, roads, communication and IT services and activities unattributable to any other group",4060942.29
+15 Utilities and housing,15.10 Administrative authorities,5206747.719999999
+15 Utilities and housing,"15.03 Health control, including environment pollution control",2255215.8600000003
+15 Utilities and housing,15.01 Housing service,60969239.0
+15 Utilities and housing,15.02 Utilities,1097455745.7200031
+15 Utilities and housing,15.04 Utility and housing services and activities unattributable to any other group,6478936.76
