@@ -16,6 +16,27 @@
   "version": "0.1.0",
   "resources": [
     {
+      "name": "admin1",
+      "path": "data/admin1.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 3103,
+      "schema": {
+        "fields": [
+          {
+            "name": "admin1",
+            "type": "string",
+            "description": ""
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    },
+    {
       "name": "admin2",
       "path": "data/admin2.csv",
       "format": "csv",
@@ -215,6 +236,14 @@
           }
         ],
         "foreignKeys": [
+          {
+            "fields": "admin1",
+            "reference": {
+              "datapackage": "boost-moldova",
+              "resource": "admin1",
+              "fields": "admin1"
+            }
+          },
           {
             "fields": "admin2",
             "reference": {
