@@ -1,6 +1,6 @@
 func1,func2,amount
 "Agriculture, forestry, fishery and water service",Administrative authorities,33774800.0
-"Agriculture, forestry, fishery and water service",Agriculture,1121175800.0
+"Agriculture, forestry, fishery and water service",Agriculture,714615300.0
 "Agriculture, forestry, fishery and water service","Agriculture, forestry, fishery and water services and activities unattributable to any other group",751383100.0
 "Agriculture, forestry, fishery and water service",Forestry,10114600.0
 "Agriculture, forestry, fishery and water service",Water service,13072500.0
@@ -21,7 +21,7 @@ Education,Secondary education,3781827328.0
 Education,Secondary vocational education,415275100.0
 Education,Staff training and retraining courses,17429400.0
 Enforcement of public order and national security,Carabineer troops,87911700.0
-Enforcement of public order and national security,Civil protection and emergency situations,195202200.0
+Enforcement of public order and national security,Civil protection and emergency situations,190466400.0
 Enforcement of public order and national security,Internal affairs authorities,798684000.0
 Enforcement of public order and national security,National security authorities,403106600.0
 Enforcement of public order and national security,Penitentiaries,328230300.0
@@ -31,7 +31,7 @@ Environment protection and hydrometeorology,Environment Protection,332484200.0
 Environment protection and hydrometeorology,Environment protection and hydrometeorology activities unattributable to any other group,37773100.0
 Environment protection and hydrometeorology,Hydrometeorology,17248900.0
 Foreign relations,Administrative authorities,21252300.0
-Foreign relations,Diplomatic missions,201962800.0
+Foreign relations,Diplomatic missions,199979500.0
 Foreign relations,International cooperation,49312000.0
 Fuel and energy,Fuel and power services and activities unattributable to any other group,220122200.0
 Fuel and energy,Natural gas installations/networks,148842996.0
@@ -46,7 +46,7 @@ Healthcare,Administrative authorities,11139700.0
 Healthcare,Health care services and facilities unattributable to any other group,415890543.0
 Healthcare,Hospitals,150000.0
 Healthcare,Mandatory health insurance linked services,4319300000.0
-Healthcare,National health programs,164967900.0
+Healthcare,National health programs,163527700.0
 Healthcare,Outpatient clinics and primary health care centers,2686900.0
 Healthcare,Preventive medicine and prevention services and facilities,277723800.0
 Industry and construction,Administrative authorities,30055400.0
