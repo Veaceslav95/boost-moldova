@@ -2,17 +2,25 @@
   {
     "columns": ["econ1","econ2"],
     "year": "2013",
-    "aggregate": "approved",
+    "aggregate": "executed",
     "where": "transfer = 'Excluding transfers'",
-    "file": "by-econ1-then-econ2-2013",
+    "file": "executed-by-econ1-then-econ2-2013",
     "format": "csv"
   },
   {
     "columns": ["func1","func2"],
     "year": "2013",
-    "aggregate": "approved",
+    "aggregate": "executed",
     "where": "transfer = 'Excluding transfers'",
-    "file": "by-func1-then-func2-2013",
+    "file": "executed-by-func1-then-func2-2013",
+    "format": "csv"
+  },
+  {
+    "columns": ["admin1","admin2","admin3","admin4","admin5","admin6"],
+    "year": "2013",
+    "aggregate": "executed",
+    "where": "transfer = 'Excluding transfers'",
+    "file": "executed-by-admin1-then-admin2-then-admin3-then-admin4-then-admin5-then-admin6-2013",
     "format": "csv"
   }
 ]
