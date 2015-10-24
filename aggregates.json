@@ -22,5 +22,53 @@
     "where": "transfer = 'Excluding transfers'",
     "file": "executed-by-admin1-then-admin2-then-admin3-then-admin4-then-admin5-then-admin6-2013",
     "format": "csv"
+  },
+  {
+    "columns": ["econ1","econ2"],
+    "year": "2013",
+    "aggregate": "approved",
+    "where": "transfer = 'Excluding transfers'",
+    "file": "approved-by-econ1-then-econ2-2013",
+    "format": "csv"
+  },
+  {
+    "columns": ["func1","func2"],
+    "year": "2013",
+    "aggregate": "approved",
+    "where": "transfer = 'Excluding transfers'",
+    "file": "approved-by-func1-then-func2-2013",
+    "format": "csv"
+  },
+  {
+    "columns": ["admin1","admin2","admin3","admin4","admin5","admin6"],
+    "year": "2013",
+    "aggregate": "approved",
+    "where": "transfer = 'Excluding transfers'",
+    "file": "approved-by-admin1-then-admin2-then-admin3-then-admin4-then-admin5-then-admin6-2013",
+    "format": "csv"
+  },
+  {
+    "columns": ["econ1","econ2"],
+    "year": "2013",
+    "aggregate": "adjusted",
+    "where": "transfer = 'Excluding transfers'",
+    "file": "adjusted-by-econ1-then-econ2-2013",
+    "format": "csv"
+  },
+  {
+    "columns": ["func1","func2"],
+    "year": "2013",
+    "aggregate": "adjusted",
+    "where": "transfer = 'Excluding transfers'",
+    "file": "adjusted-by-func1-then-func2-2013",
+    "format": "csv"
+  },
+  {
+    "columns": ["admin1","admin2","admin3","admin4","admin5","admin6"],
+    "year": "2013",
+    "aggregate": "adjusted",
+    "where": "transfer = 'Excluding transfers'",
+    "file": "adjusted-by-admin1-then-admin2-then-admin3-then-admin4-then-admin5-then-admin6-2013",
+    "format": "csv"
   }
 ]
